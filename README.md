@@ -34,7 +34,7 @@ Simulated enterprise IT support environment integrating:
 - Windows Server 2022
 - Windows 10
 - Kali Linux
-- Custom ITSM ticketing platform
+- Custom and integrated ITSM ticketing platform 
 
 ### IT Support & Cybersecurity Labs
 10+ hands-on labs covering:
