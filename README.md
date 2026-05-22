@@ -64,8 +64,8 @@ Currently pursuing an enterprise IT support/help desk role while continuing to b
 
 ## Connect
 
-- LinkedIn
-- GitHub Portfolio
+- [LinkedIn](https://www.linkedin.com/in/john-ty-tech)
+- [GitHub Portfolio](https://github.com/johninfra)
 
 <!--
 **johninfra/johninfra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
