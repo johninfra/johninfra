@@ -37,7 +37,7 @@ Simulated enterprise IT support environment integrating:
 - Custom and integrated ITSM ticketing platform 
 
 ### IT Support & Cybersecurity Labs
-10+ hands-on labs covering:
+15+ hands-on labs covering:
 - Password resets
 - Active Directory management
 - Network troubleshooting
