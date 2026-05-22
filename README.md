@@ -51,7 +51,7 @@ Simulated enterprise IT support environment integrating:
 ## Certifications
 
 - CompTIA A+
-- Security+ (In Progress)
+- CompTIA Security+ (In Progress)
 
 ---
 
