@@ -51,7 +51,6 @@ Simulated enterprise IT support environment integrating:
 ## Certifications
 
 - CompTIA A+
-- AZ-900 (In Progress)
 - Security+ (In Progress)
 
 ---
