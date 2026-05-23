@@ -10,7 +10,7 @@ CompTIA A+ Certified and AS in Computer Information Systems focused on enterpris
 
 - Windows 10/11
 - Windows Server 2022
-- Active Directory Users and Computers
+- Active Directory 
 - VMware Workstation
 - Microsoft 365
 - Networking Fundamentals
