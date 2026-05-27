@@ -57,7 +57,7 @@ Simulated enterprise IT support environment integrating:
 
 ## Goals
 
-Currently pursuing an enterprise IT support/help desk role while continuing to build hands-on cybersecurity and infrastructure experience.
+Currently pursuing an enterprise IT support/help desk role while continuing to build hands-on system administration and infrastructure experience.
 
 ---
 
