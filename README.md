@@ -1,6 +1,6 @@
 # John Tyler
 
-## IT Support | Help Desk | Active Directory | Cybersecurity
+## IT Support | Help Desk | Active Directory | Networking | Cybersecurity
 
 CompTIA A+ Certified and AS in Computer Information Systems focused on enterprise IT support, troubleshooting, networking, virtualization, and cybersecurity labs.
 
