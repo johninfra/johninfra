@@ -1,27 +1,19 @@
 # John Tyler
+### IT Support Specialist | System Administration | Cybersecurity
 
-## IT Support | Help Desk | Active Directory | Networking | Cybersecurity
+CompTIA A+ Certified professional with an AS in Computer Information Systems. Experienced in configuring enterprise-grade virtualized environments, automating user management, and resolving complex technical workflows.
 
-CompTIA A+ Certified and AS in Computer Information Systems focused on enterprise IT support, troubleshooting, networking, virtualization, and cybersecurity labs.
+[🛠️ View my Hands-On Lab Portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs)
 
 ---
 
 ## Technical Skills
 
-- Windows 10/11
-- Windows Server 2022
-- Active Directory 
-- VMware Workstation
-- Microsoft 365
-- Networking Fundamentals
-- DNS/DHCP
-- VPN Troubleshooting
-- Hardware & Peripheral Support
-- Help Desk Ticketing Systems
-- Kali Linux
-- Nmap
-- Wireshark
-- Splunk
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Operating Systems** | Windows 10/11, Windows Server 2022, Linux (Kali, Ubuntu) |
+| **Directory & Cloud** | Active Directory (AD DS), Microsoft 365 Admin Center |
+| **Networking & Security** | DNS/DHCP, VPN Troubleshooting, Wireshark, Nmap |
 
 ---
 
@@ -34,7 +26,10 @@ Simulated enterprise IT support environment integrating:
 - Windows Server 2022
 - Windows 10
 - Kali Linux
-- Custom and integrated ITSM ticketing platform 
+- Custom and integrated ITSM ticketing platform
+
+## Featured Repositories
+*   **[IT Support & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs)**: Hands-on simulations featuring Active Directory provisioning, network packet analysis, and endpoint security hardening.
 
 ### IT Support & Cybersecurity Labs
 15+ hands-on labs covering:
