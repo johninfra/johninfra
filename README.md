@@ -31,28 +31,19 @@ Simulated enterprise IT support environment integrating:
 ## Featured Repositories
 *   **[IT Support & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs)**: Hands-on simulations featuring Active Directory provisioning, network packet analysis, and endpoint security hardening.
 
-### IT Support & Cybersecurity Labs
-15+ hands-on labs covering:
-- Password resets
-- Active Directory management
-- Network troubleshooting
-- Shared folder permissions
-- Ticket workflows
-- Security diagnostics
-- Virtualization
-
----
+## IT Support & Cybersecurity Labs
+**15+ hands-on practical exercises covering:**
+*   **Identity Management:** Active Directory provisioning & account password resets.
+*   **Access Control:** Shared folder permissions, security groups, & GPOs.
+*   **Operations:** Ticket workflows, root-cause analysis, & IT service management.
+*   **Infrastructure:** Virtualization setup, network diagnostics, & security telemetry.
 
 ## Certifications
+*   **CompTIA A+** (Active)
+*   **CompTIA Security+** (In Progress)
 
-- CompTIA A+
-- CompTIA Security+ (In Progress)
-
----
-
-## Goals
-
-Currently pursuing an enterprise IT support/help desk role while continuing to build hands-on system administration and infrastructure experience.
+## Career Goals
+Actively pursuing an enterprise IT Support / Help Desk role where I can apply my foundation in systems administration, infrastructure management, and secure technical workflows to support organizational efficiency.
 
 ---
 
