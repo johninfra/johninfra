@@ -29,7 +29,7 @@ Simulated enterprise IT support environment integrating:
 - Custom and integrated ITSM ticketing platform
 
 ## Featured Repositories
-*   **[IT Support & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs)**: Hands-on simulations featuring Active Directory provisioning, network packet analysis, and endpoint security hardening.
+*   **[IT Support & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs)**: Hands-on simulations featuring Active Directory provisioning, network troubleshooting, network packet analysis, and endpoint security hardening.
 
 ## IT Support & Cybersecurity Labs
 **15+ hands-on practical exercises covering:**
