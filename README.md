@@ -12,7 +12,7 @@ CompTIA A+ Certified professional with an AS in Computer Information Systems. Ex
 | Category | Technologies & Tools |
 |-----------|----------------------|
 | Operating Systems | Windows 10/11, Windows Server 2022, Linux (Kali, Ubuntu) |
-| Directory & Cloud | Active Directory (AD DS), ADUC, GPO, User & Group Management, Microsoft 365 Admin Center |
+| Directory & Cloud | Active Directory (AD DS), ADUC, GPO, User & Group Management |
 | Networking & Security | TCP/IP, DNS, DHCP, VPN Troubleshooting, SMB, Wireshark, Nmap, Metasploit |
 | Remote Support | RDP, Quick Assist, AnyDesk, TeamViewer |
 | Virtualization | VMware Workstation, NAT & Host-Only Networking |
