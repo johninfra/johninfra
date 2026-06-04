@@ -43,7 +43,7 @@ Simulated enterprise IT support environment integrating:
 *   **CompTIA Security+** (In Progress)
 
 ## Career Goals
-Actively pursuing an enterprise IT Support / Help Desk role where I can apply my foundation in systems administration, infrastructure management, and secure technical workflows to support organizational efficiency.
+Driven Help Desk professional leveraging a strong foundation in Active Directory provisioning, access control, and network diagnostics. Goal-oriented to secure an enterprise IT Support role where I can streamline ticket workflows and enhance systems administration. Committed to reducing downtime and providing seamless technical problem-solving for enterprise users.
 
 ---
 
