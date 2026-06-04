@@ -10,10 +10,13 @@ CompTIA A+ Certified professional with an AS in Computer Information Systems. Ex
 ## Technical Skills
 
 | Category | Technologies & Tools |
-| :--- | :--- |
-| **Operating Systems** | Windows 10/11, Windows Server 2022, Linux (Kali, Ubuntu) |
-| **Directory & Cloud** | Active Directory (AD DS), Microsoft 365 Admin Center |
-| **Networking & Security** | DNS/DHCP, VPN Troubleshooting, Wireshark, Nmap |
+|-----------|----------------------|
+| Operating Systems | Windows 10/11, Windows Server 2022, Linux (Kali, Ubuntu) |
+| Directory & Cloud | Active Directory (AD DS), ADUC, GPO, User & Group Management, Microsoft 365 Admin Center |
+| Networking & Security | TCP/IP, DNS, DHCP, VPN Troubleshooting, SMB, Wireshark, Nmap, Metasploit |
+| Remote Support | RDP, Quick Assist, AnyDesk, TeamViewer |
+| Virtualization | VMware Workstation, NAT & Host-Only Networking |
+| IT Service Management | ITSM Ticketing, Incident Management, Asset Management, Documentation |
 
 ---
 
