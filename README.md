@@ -46,7 +46,7 @@ Simulated enterprise IT support environment integrating:
 *   **CompTIA Security+** (In Progress)
 
 ## Career Goals
-Driven IT support professional leveraging a strong foundation in Active Directory provisioning, access control, and network diagnostics. Goal-oriented to secure an enterprise IT Support role where I can streamline ticket workflows and enhance systems administration. Committed to reducing downtime and providing seamless technical problem-solving for enterprise users.
+Driven IT Support Professional with proven experience managing enterprise Active Directory environments, access controls, and network diagnostics. Committed to optimizing system uptime and delivering seamless, tier-2 level technical problem-solving. My goal is to leverage my hands-on background to streamline enterprise IT support workflows and contribute to robust infrastructure administration.
 
 ---
 
