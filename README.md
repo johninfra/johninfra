@@ -31,6 +31,15 @@ Simulated enterprise IT support environment integrating:
 - Kali Linux
 - Custom and integrated ITSM ticketing platform
 
+### AI-Powered IT Operations Playbook
+**Engineered Prompt Library for Automated Troubleshooting & Administration**
+
+An enterprise-ready repository of production-grade AI prompts optimized for ChatGPT and Claude to streamline system administration.
+
+* **Log Parsing:** Prompts structured to isolate root-cause failure codes from Event Viewer and Linux syslog files.
+* **Script Generation:** Advanced contextual prompts generating modular PowerShell and Bash automation tools.
+* **Documentation:** Prompts designed to translate complex technical diagnostics into clear, user-friendly service desk updates.
+
 ## Featured Repositories
 *   **[IT Support & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs)**: Hands-on simulations featuring Active Directory provisioning, network troubleshooting, network packet analysis, and endpoint security hardening.
 
