@@ -20,7 +20,7 @@ CompTIA A+ Certified professional with an AS in Computer Information Systems. Ex
 | AI & Automation | ChatGPT, Claude, Prompt Engineering, AI-Assisted Scripting (PowerShell/Bash) |
 ---
 
-# Featured Projects
+## Featured Projects
 
 ## LabDesk ITSM Homelab
 
