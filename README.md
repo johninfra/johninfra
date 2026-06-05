@@ -1,7 +1,7 @@
 # John Tyler
 ### IT Support Specialist | System Administration | Cybersecurity
 
-CompTIA A+ Certified professional with an AS in Computer Information Systems. Experienced in configuring enterprise-grade virtualized environments, automating user management, and resolving complex technical workflows.
+CompTIA A+ Certified professional with an AS in Computer Information Systems. Experienced in configuring enterprise-grade virtualized environments, automating user management, and resolving complex technical workflows. Utilizes advanced AI prompting techniques to accelerate system scripting, log analysis, and incident documentation.
 
 [🛠️ View my Hands-On Lab Portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs)
 
@@ -17,7 +17,7 @@ CompTIA A+ Certified professional with an AS in Computer Information Systems. Ex
 | Remote Support | RDP, Quick Assist, AnyDesk, TeamViewer |
 | Virtualization | VMware Workstation, NAT & Host-Only Networking |
 | IT Service Management | ITSM Ticketing, Incident Management, Asset Management, Documentation |
-
+| AI & Automation | ChatGPT, Claude, Prompt Engineering, AI-Assisted Scripting (PowerShell/Bash) |
 ---
 
 ## Featured Projects
