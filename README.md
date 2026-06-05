@@ -20,25 +20,48 @@ CompTIA A+ Certified professional with an AS in Computer Information Systems. Ex
 | AI & Automation | ChatGPT, Claude, Prompt Engineering, AI-Assisted Scripting (PowerShell/Bash) |
 ---
 
-## Featured Projects
+# Featured Projects
 
-### LabDesk ITSM Homelab
+## LabDesk ITSM Homelab
+
 Simulated enterprise IT support environment integrating:
+
 - Active Directory
 - VMware
 - Windows Server 2022
 - Windows 10
 - Kali Linux
-- Custom and integrated ITSM ticketing platform
+- Custom ITSM Ticketing Platform
+- User Provisioning
+- Group Management
+- Help Desk Operations
 
-### AI-Powered IT Operations Playbook
-**Engineered Prompt Library for Automated Troubleshooting & Administration**
+---
 
-An enterprise-ready repository of production-grade AI prompts optimized for ChatGPT and Claude to streamline system administration.
+## AI-Powered IT Operations Playbook
 
-* **Log Parsing:** Prompts structured to isolate root-cause failure codes from Event Viewer and Linux syslog files.
-* **Script Generation:** Advanced contextual prompts generating modular PowerShell and Bash automation tools.
-* **Documentation:** Prompts designed to translate complex technical diagnostics into clear, user-friendly service desk updates.
+Enterprise IT operations repository containing:
+
+- AI Workflows
+- IT Standard Operating Procedures
+- Security Operations Documentation
+- Help Desk Playbooks
+- Active Directory Processes
+- PowerShell Automation Concepts
+- Incident Response Procedures
+- Operational Knowledge Management
+
+Technologies:
+
+- Active Directory
+- Microsoft 365
+- PowerShell
+- ServiceNow Concepts
+- Jira Concepts
+- Splunk
+- Windows Server
+- AI Operations
+- Cybersecurity Operations
 
 ## Featured Repositories
 *   **[IT Support & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs)**: Hands-on simulations featuring Active Directory provisioning, network troubleshooting, network packet analysis, and endpoint security hardening.
