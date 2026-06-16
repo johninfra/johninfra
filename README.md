@@ -13,7 +13,7 @@ CompTIA A+ certified IT professional with an AS in Computer Information Systems.
 |-----------|----------------------|
 | Operating Systems | Windows 10/11, Windows Server 2022, Linux (Kali, Ubuntu) |
 | Directory & Cloud | Active Directory (AD DS), ADUC, GPO, User & Group Management |
-| Networking & Security | TCP/IP, DNS, DHCP, VPN Troubleshooting, SMB, Wireshark, Nmap, Metasploit |
+| Networking & Security | TCP/IP, DNS, DHCP, VPN Troubleshooting, SMB, Wireshark, Nmap, Splunk |
 | Remote Support | RDP, Quick Assist, AnyDesk, TeamViewer |
 | Virtualization | VMware Workstation, NAT & Host-Only Networking |
 | IT Service Management | ITSM Ticketing, Incident Management, Asset Management, Documentation |
