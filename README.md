@@ -1,7 +1,7 @@
 # John Tyler
 ### IT Support Specialist | System Administration | Cybersecurity
 
-CompTIA A+ Certified IT professional with an AS in Computer Information Systems. Experienced in configuring enterprise-grade virtualized environments, automating user management, and resolving complex technical workflows. Utilizes advanced AI prompting techniques to accelerate system scripting, log analysis, and incident documentation.
+CompTIA A+ certified IT professional with an A.S. in Computer Information Systems and a growing portfolio of hands-on IT infrastructure and cybersecurity projects. Experienced with Active Directory, Windows Server, Microsoft 365, VMware, PowerShell, networking, SIEM platforms, and security monitoring. Designs and manages enterprise-style lab environments to strengthen skills in systems administration, automation, incident response, and security operations. Committed to continuous learning and building practical solutions that improve reliability, security, and operational efficiency.
 
 [🛠️ View my Hands-On Lab Portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs)
 
