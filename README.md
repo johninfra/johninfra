@@ -67,10 +67,10 @@ Technologies:
 *   **[IT Support & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs)**: Hands-on simulations featuring Active Directory provisioning, network troubleshooting, network packet analysis, and endpoint security hardening.
 
 ## IT Support & Cybersecurity Labs
-**15+ hands-on practical exercises covering:**
+**20+ hands-on practical exercises covering:**
 *   **Identity Management:** Active Directory provisioning & account password resets.
 *   **Access Control:** Shared folder permissions, security groups, & GPOs.
-*   **Operations:** Ticket workflows, root-cause analysis, & IT service management.
+*   **Operations:** Ticket workflows, root-cause analysis, remote support, & IT service management.
 *   **Infrastructure:** Virtualization setup, network diagnostics, & security telemetry.
 
 ## Certifications
