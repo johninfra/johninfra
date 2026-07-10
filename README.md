@@ -5,8 +5,6 @@ CompTIA A+ certified IT Support Specialist with nearly two years of enterprise I
 
 My portfolio demonstrates hands-on experience with Microsoft Entra ID, Active Directory, Windows Server, Microsoft 365, PowerShell, VMware, Splunk SIEM, networking, endpoint administration, and enterprise troubleshooting. Every project is documented with technical write-ups, screenshots, and real-world implementation details.
 
-🚀 View my IT Support & Cybersecurity Lab Portfolio
-
 [🛠️ View my Hands-On Lab Portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs)
 
 ---
