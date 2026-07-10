@@ -54,7 +54,7 @@ Enterprise IT operations repository containing:
 - Operational Knowledge Management
 
 ## Featured Repositories
-*   **[IT Support & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs)**: Hands-on simulations featuring Active Directory provisioning, network troubleshooting, network packet analysis, and endpoint security hardening.
+*   **[IT Support, IAM, & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs)**: Hands-on simulations featuring Active Directory provisioning, network troubleshooting, network packet analysis, and endpoint security hardening.
 
 ## IT Support, IAM, & Cybersecurity Labs
 
