@@ -53,18 +53,6 @@ Enterprise IT operations repository containing:
 - Incident Response Procedures
 - Operational Knowledge Management
 
-Technologies:
-
-- Active Directory
-- Microsoft 365
-- PowerShell
-- ServiceNow Concepts
-- Jira Concepts
-- Splunk
-- Windows Server
-- AI Operations
-- Cybersecurity Operations
-
 ## Featured Repositories
 *   **[IT Support & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs)**: Hands-on simulations featuring Active Directory provisioning, network troubleshooting, network packet analysis, and endpoint security hardening.
 
