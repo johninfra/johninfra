@@ -1,7 +1,11 @@
 # John Tyler
 ### IT Support Specialist | System Administration | Cybersecurity
 
-CompTIA A+ certified IT professional with an A.S. in Computer Information Systems and a growing portfolio of hands-on IT infrastructure and cybersecurity projects. Experienced with Active Directory, Windows Server, Microsoft 365, VMware, PowerShell, networking, SIEM platforms, and security monitoring. Designs and manages enterprise-style lab environments to strengthen skills in systems administration, automation, incident response, and security operations. Committed to continuous learning and building practical solutions that improve reliability, security, and operational efficiency.
+CompTIA A+ certified IT Support Specialist with nearly two years of enterprise IT support experience and an A.S. in Computer Information Systems. I build enterprise-focused home labs to strengthen my skills in systems administration, Microsoft cloud technologies, identity and access management (IAM), automation, networking, and cybersecurity.
+
+My portfolio demonstrates hands-on experience with Microsoft Entra ID, Active Directory, Windows Server, Microsoft 365, PowerShell, VMware, Splunk SIEM, networking, endpoint administration, and enterprise troubleshooting. Every project is documented with technical write-ups, screenshots, and real-world implementation details.
+
+🚀 View my IT Support & Cybersecurity Lab Portfolio
 
 [🛠️ View my Hands-On Lab Portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs)
 
@@ -11,30 +15,30 @@ CompTIA A+ certified IT professional with an A.S. in Computer Information System
 
 | Category | Technologies & Tools |
 |-----------|----------------------|
-| Operating Systems | Windows 10/11, Windows Server 2022, Linux (Kali, Ubuntu) |
-| Directory & Cloud | Active Directory (AD DS), ADUC, GPO, User & Group Management |
-| Networking & Security | TCP/IP, DNS, DHCP, VPN Troubleshooting, SMB, Wireshark, Nmap, Splunk |
-| Remote Support | RDP, Quick Assist, AnyDesk, TeamViewer |
-| Virtualization | VMware Workstation, NAT & Host-Only Networking |
-| IT Service Management | ITSM Ticketing, Incident Management, Asset Management, Documentation |
-| AI & Automation | ChatGPT, Claude, Prompt Engineering, AI-Assisted Scripting (PowerShell/Bash) |
+| Operating Systems | Windows 10/11, Windows Server 2022, Kali Linux, Ubuntu |
+| Identity & Cloud | Microsoft Entra ID, Active Directory, Microsoft 365, RBAC, Security Groups, User Provisioning |
+| Systems Administration | ADUC, Group Policy (GPO), Windows Administration |
+| Networking & Security | TCP/IP, DNS, DHCP, VPN, SMB, Wireshark, Nmap, Splunk SIEM |
+| Automation | PowerShell, Windows CMD |
+| Virtualization | VMware Workstation |
+| Remote Support | RDP, Quick Assist, TeamViewer, AnyDesk |
+| IT Operations | ITSM, Incident Management, Asset Management, Documentation |
 ---
 
 ## Featured Projects
 
-## LabDesk ITSM Homelab
+## Microsoft Entra ID IAM Fundamentals Lab
 
-Simulated enterprise IT support environment integrating:
+Designed and deployed a simulated enterprise Microsoft Entra ID environment.
 
-- Active Directory
-- VMware
-- Windows Server 2022
-- Windows 10
-- Kali Linux
-- Custom ITSM Ticketing Platform
-- User Provisioning
-- Group Management
-- Help Desk Operations
+- Created 10 cloud identities
+- Configured 15 enterprise security groups
+- Implemented RBAC
+- Applied least privilege
+- User provisioning
+- Group ownership
+- Identity lifecycle management
+- Enterprise documentation
 
 ---
 
@@ -74,8 +78,20 @@ Technologies:
 *   **Infrastructure:** Virtualization setup, network diagnostics, & security telemetry.
 
 ## Certifications
-*   **CompTIA A+** (Active)
-*   **CompTIA Security+** (In Progress)
+
+✔ CompTIA A+
+
+🎯 Currently studying for CompTIA Security+
+
+## Currently Learning
+
+• Microsoft Entra ID
+• Identity & Access Management (IAM)
+• Microsoft Azure
+• Windows Server Administration
+• PowerShell Automation
+• Active Directory Security
+• Security Operations
 
 ## Career Goals
 Driven IT Support Professional with proven experience managing enterprise Active Directory environments, access controls, and network diagnostics. Committed to optimizing system uptime and delivering seamless, tier-2 level technical problem-solving. My goal is to leverage my hands-on background to streamline enterprise IT support workflows and contribute to robust infrastructure administration.
