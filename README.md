@@ -56,7 +56,7 @@ Enterprise IT operations repository containing:
 ## Featured Repositories
 *   **[IT Support & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs)**: Hands-on simulations featuring Active Directory provisioning, network troubleshooting, network packet analysis, and endpoint security hardening.
 
-## IT Support & Cybersecurity Labs
+## IT Support, IAM, & Cybersecurity Labs
 
 **20+ enterprise-focused hands-on labs demonstrating:**
 
