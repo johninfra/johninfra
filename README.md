@@ -58,7 +58,7 @@ Enterprise IT operations repository containing:
 
 ## IT Support, IAM, & Cybersecurity Labs
 
-**20+ enterprise-focused hands-on labs demonstrating:**
+**23+ enterprise-focused hands-on labs demonstrating:**
 
 - **Identity & Access Management:** Microsoft Entra ID, Active Directory, user lifecycle management, security groups, RBAC, and least-privilege administration.
 - **Enterprise Infrastructure:** Windows Server, Microsoft 365, Group Policy, PowerShell automation, virtualization, and endpoint management.
