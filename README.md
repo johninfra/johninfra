@@ -1,7 +1,7 @@
 # John Tyler
 ### IT Support Specialist | System Administration | Cybersecurity
 
-CompTIA A+ certified IT Support Specialist with nearly two years of enterprise IT support experience and an A.S. in Computer Information Systems. I build enterprise-focused home labs to strengthen my skills in systems administration, Microsoft cloud technologies, identity and access management (IAM), automation, networking, and cybersecurity.
+CompTIA A+ certified IT Support Specialist with nearly two years of enterprise IT support experience and an A.S. in Computer Information Systems. I build enterprise-focused home labs to strengthen my skills in systems administration, technical support, Microsoft cloud technologies, identity and access management (IAM), automation, networking, and cybersecurity.
 
 My portfolio demonstrates hands-on experience with Microsoft Entra ID, Active Directory, Windows Server, PowerShell, VMware, Splunk SIEM, networking, endpoint administration, and enterprise troubleshooting. Every project is documented with technical write-ups, screenshots, and real-world implementation details.
 
