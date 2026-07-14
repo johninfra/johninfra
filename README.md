@@ -3,7 +3,7 @@
 
 CompTIA A+ certified IT Support Specialist with nearly two years of enterprise IT support experience and an A.S. in Computer Information Systems. I build enterprise-focused home labs to strengthen my skills in systems administration, Microsoft cloud technologies, identity and access management (IAM), automation, networking, and cybersecurity.
 
-My portfolio demonstrates hands-on experience with Microsoft Entra ID, Active Directory, Windows Server, Microsoft 365, PowerShell, VMware, Splunk SIEM, networking, endpoint administration, and enterprise troubleshooting. Every project is documented with technical write-ups, screenshots, and real-world implementation details.
+My portfolio demonstrates hands-on experience with Microsoft Entra ID, Active Directory, Windows Server, PowerShell, VMware, Splunk SIEM, networking, endpoint administration, and enterprise troubleshooting. Every project is documented with technical write-ups, screenshots, and real-world implementation details.
 
 [🛠️ View my Hands-On Lab Portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs)
 
@@ -14,13 +14,13 @@ My portfolio demonstrates hands-on experience with Microsoft Entra ID, Active Di
 | Category | Technologies & Tools |
 |-----------|----------------------|
 | Operating Systems | Windows 10/11, Windows Server 2022, Kali Linux, Ubuntu |
-| Identity & Cloud | Microsoft Entra ID, Active Directory, Microsoft 365, RBAC, Security Groups, User Provisioning |
+| Identity & Cloud | Microsoft Entra ID, Active Directory, RBAC, Security Groups, User Provisioning |
 | Systems Administration | ADUC, Group Policy (GPO), Windows Administration |
 | Networking & Security | TCP/IP, DNS, DHCP, VPN, SMB, Wireshark, Nmap, Splunk SIEM |
 | Automation | PowerShell, Windows CMD |
 | Virtualization | VMware Workstation |
-| Remote Support | RDP, Quick Assist, TeamViewer, AnyDesk |
-| IT Operations | ITSM, Incident Management, Asset Management, Documentation |
+| Remote Support | RDP, Quick Assist |
+| IT Operations | ITSM, Incident Management, Documentation |
 ---
 
 ## Featured Projects
@@ -60,8 +60,8 @@ Enterprise IT operations repository containing:
 
 **23+ enterprise-focused hands-on labs demonstrating:**
 
-- **Identity & Access Management:** Microsoft Entra ID, Active Directory, user lifecycle management, security groups, RBAC, and least-privilege administration.
-- **Enterprise Infrastructure:** Windows Server, Microsoft 365, Group Policy, PowerShell automation, virtualization, and endpoint management.
+- **Identity & Access Management:** Microsoft Entra ID, Active Directory, security groups, RBAC, and least-privilege administration.
+- **Enterprise Infrastructure:** Windows Server, Group Policy, PowerShell automation, virtualization, and endpoint management.
 - **Security Operations:** Splunk SIEM, Sysmon, Windows Event Logs, vulnerability management, and incident investigation.
 - **Networking:** TCP/IP, DNS, DHCP, VPNs, Wireshark, Nmap, and enterprise network troubleshooting.
 
@@ -82,7 +82,7 @@ Enterprise IT operations repository containing:
 • Security Operations
 
 ## Career Goals
-Driven IT Support Professional with proven experience managing enterprise Active Directory environments, access controls, and network diagnostics. Committed to optimizing system uptime and delivering seamless, tier-2 level technical problem-solving. My goal is to leverage my hands-on background to streamline enterprise IT support workflows and contribute to robust infrastructure administration.
+Driven IT Support Professional with proven experience managing enterprise Active Directory environments, access controls, and network diagnostics. Committed to optimizing system uptime and delivering seamless, tier-2 level technical problem-solving. My goal is to leverage my hands-on background with my professional experience to streamline enterprise IT support workflows and contribute to robust infrastructure administration.
 
 ---
 
