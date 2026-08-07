@@ -67,9 +67,9 @@ Enterprise IT operations repository containing:
 
 ## Certifications
 
-✔ CompTIA A+
+✔ CompTIA Security+
 
-🎯 Currently studying for CompTIA Security+
+✔ CompTIA A+
 
 ## Currently Learning
 
