@@ -72,7 +72,10 @@ Developed a PowerShell-based Windows health-check solution to automate system di
 ✔ CompTIA A+
 
 ## Career Goals
-Driven IT Support Professional with proven experience managing enterprise Active Directory environments, access controls, and network diagnostics. Committed to optimizing system uptime and delivering seamless, tier-2 level technical problem-solving. My goal is to leverage my hands-on background with my professional experience to streamline enterprise IT support workflows and contribute to robust infrastructure administration.
+
+My goal is to continue advancing from IT support into systems administration, identity and access management, and cloud infrastructure. I am focused on developing deeper expertise in Microsoft Entra ID, Active Directory, Microsoft 365, PowerShell automation, endpoint management, and enterprise security.
+
+Long term, I aim to design, administer, automate, and secure reliable enterprise environments while continuing to expand my capabilities across cloud engineering, identity security, and cybersecurity.
 
 ---
 
