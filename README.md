@@ -1,9 +1,11 @@
 # John Tyler
-### IT Support Specialist | System Administration | Cybersecurity | IAM
+### Systems Administrator | Active Directory & Entra ID | Microsoft 365 | IAM | PowerShell
 
-CompTIA A+ certified IT Support Specialist with nearly two years of enterprise IT support experience and an A.S. in Computer Information Systems. I build enterprise-focused home labs to strengthen my skills in systems administration, technical support, Microsoft cloud technologies, identity and access management (IAM), automation, networking, and cybersecurity.
+CompTIA Security+ and A+ certified systems and cybersecurity professional with hands-on experience administering Active Directory, Microsoft Entra ID, Microsoft 365, Windows endpoints, and identity and access management environments.
 
-My portfolio demonstrates hands-on experience with Microsoft Entra ID, Active Directory, Windows Server, PowerShell, VMware, Splunk SIEM, networking, endpoint administration, and enterprise troubleshooting. Every project is documented with technical write-ups, screenshots, and real-world implementation details.
+My experience includes user lifecycle management, RBAC and least-privilege access, authentication troubleshooting, endpoint support, VPN and network connectivity, PowerShell automation, and security incident investigation. I progressed from Tier 1 support into identity, access, and systems administration responsibilities while supporting production enterprise environments.
+
+This GitHub documents hands-on projects across Entra ID IAM, Active Directory, Windows Server, PowerShell, Intune, Group Policy, VMware, Splunk SIEM, networking, and infrastructure security. Projects include technical documentation, implementation details, screenshots, and practical enterprise scenarios.
 
 [🛠️ View my Hands-On Lab Portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs)
 
@@ -13,45 +15,43 @@ My portfolio demonstrates hands-on experience with Microsoft Entra ID, Active Di
 
 | Category | Technologies & Tools |
 |-----------|----------------------|
-| Operating Systems | Windows 10/11, Windows Server 2022, Kali Linux, Ubuntu |
-| Identity & Cloud | Microsoft Entra ID, Active Directory, RBAC, Security Groups, User Provisioning |
-| Systems Administration | ADUC, Group Policy (GPO), Windows Administration |
-| Networking & Security | TCP/IP, DNS, DHCP, VPN, SMB, Wireshark, Nmap, Splunk SIEM |
-| Automation | PowerShell, Windows CMD |
+| Identity & Access Management | Microsoft Entra ID, Active Directory (AD DS), IAM, RBAC, Security Groups, User Lifecycle Management, Least Privilege |
+| Microsoft Administration | Microsoft 365, Microsoft Intune, Group Policy (GPO), Windows Server 2022 |
+| Operating Systems | Windows 10/11, Windows Server 2022, Ubuntu, Kali Linux |
+| Automation & Scripting | PowerShell, Windows CMD |
+| Networking | TCP/IP, DNS, DHCP, VPN, SMB |
+| Security & Monitoring | Splunk SIEM, Wireshark, Nmap |
 | Virtualization | VMware Workstation |
-| Remote Support | RDP, Quick Assist |
-| IT Operations | ITSM, Incident Management, Documentation |
+| Remote Administration | RDP, Quick Assist |
+| IT Operations | Troubleshooting, Incident Management, Technical Documentation |
+
 ---
 
 ## Featured Projects
 
-## Microsoft Entra ID IAM Fundamentals Lab
+### Microsoft Entra ID IAM Fundamentals Lab
 
-Designed and deployed a simulated enterprise Microsoft Entra ID environment.
+Built and documented a simulated enterprise Microsoft Entra ID environment demonstrating cloud identity administration and IAM best practices.
 
-- Created 10 cloud identities
-- Configured 15 enterprise security groups
-- Implemented RBAC
-- Applied least privilege
-- User provisioning
-- Group ownership
-- Identity lifecycle management
-- Enterprise documentation
+- Provisioned 10 cloud users
+- Created 15 role-based security groups
+- Implemented role-based access control (RBAC)
+- Applied least-privilege access principles
+- Managed user provisioning and identity lifecycle operations
+- Configured security group membership and access structure
+- Documented the environment and implementation process
 
 ---
 
-## AI-Powered IT Operations Playbook
+### PowerShell Windows Health Check Automation
 
-Enterprise IT operations repository containing:
+Developed a PowerShell-based Windows health-check solution to automate system diagnostics and operational checks.
 
-- AI Workflows
-- IT Standard Operating Procedures
-- Security Operations Documentation
-- Help Desk Playbooks
-- Active Directory Processes
-- PowerShell Automation Concepts
-- Incident Response Procedures
-- Operational Knowledge Management
+- Automated Windows system health checks using PowerShell
+- Performed system diagnostics and operational checks
+- Applied Windows administration and troubleshooting techniques
+- Demonstrated PowerShell scripting and infrastructure automation
+- Reduced manual effort involved in routine system health verification
 
 ## Featured Repositories
 *   **[IT Support, IAM, & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs)**: Hands-on simulations featuring Active Directory provisioning, network troubleshooting, network packet analysis, and endpoint security hardening.
@@ -70,16 +70,6 @@ Enterprise IT operations repository containing:
 ✔ CompTIA Security+
 
 ✔ CompTIA A+
-
-## Currently Learning
-
-• Microsoft Entra ID
-• Identity & Access Management (IAM)
-• Microsoft Azure
-• Windows Server Administration
-• PowerShell Automation
-• Active Directory Security
-• Security Operations
 
 ## Career Goals
 Driven IT Support Professional with proven experience managing enterprise Active Directory environments, access controls, and network diagnostics. Committed to optimizing system uptime and delivering seamless, tier-2 level technical problem-solving. My goal is to leverage my hands-on background with my professional experience to streamline enterprise IT support workflows and contribute to robust infrastructure administration.
