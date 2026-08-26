@@ -5,7 +5,7 @@ CompTIA Security+ and A+ certified systems and cybersecurity professional with h
 
 My experience includes user lifecycle management, RBAC and least-privilege access, authentication troubleshooting, endpoint support, VPN and network connectivity, PowerShell automation, and security incident investigation. I progressed from Tier 1 support into identity, access, and systems administration responsibilities while supporting production enterprise environments.
 
-This GitHub documents hands-on projects across Entra ID IAM, Active Directory, Windows Server, PowerShell, Intune, Group Policy, VMware, Splunk SIEM, networking, and infrastructure security. Projects include technical documentation, implementation details, screenshots, and practical enterprise scenarios.
+This GitHub documents hands-on projects across Entra ID IAM, Active Directory, Windows Server, Linux, PowerShell, Intune, Group Policy, VMware, Splunk SIEM, networking, and infrastructure security. Projects include technical documentation, implementation details, screenshots, and practical enterprise scenarios.
 
 [🛠️ View my Hands-On Lab Portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs)
 
