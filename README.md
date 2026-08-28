@@ -1,5 +1,5 @@
 # John Tyler
-### Systems Administrator | Active Directory & Entra ID | Microsoft 365 | IAM | PowerShell
+### Systems Administrator | IAM | Cybersecurity
 
 CompTIA Security+ and A+ certified systems and cybersecurity professional with hands-on experience administering Active Directory, Microsoft Entra ID, Microsoft 365, Windows endpoints, and identity and access management environments.
 
