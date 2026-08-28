@@ -58,7 +58,7 @@ Developed a PowerShell-based Windows health-check solution to automate system di
 
 ## IT Support, IAM, & Cybersecurity Labs
 
-**25 enterprise-focused hands-on labs demonstrating:**
+**26 enterprise-focused hands-on labs demonstrating:**
 
 - **Identity & Access Management:** Microsoft Entra ID, Active Directory, security groups, RBAC, and least-privilege administration.
 - **Enterprise Infrastructure:** Windows Server, Group Policy, PowerShell automation, virtualization, and endpoint management.
