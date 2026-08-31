@@ -43,15 +43,15 @@ Built and documented a simulated enterprise Microsoft Entra ID environment demon
 
 ---
 
-### PowerShell Windows Health Check Automation
+### Splunk SIEM Security Monitoring & Log Analysis
 
-Developed a PowerShell-based Windows health-check solution to automate system diagnostics and operational checks.
+Built a Splunk SIEM lab to centralize, search, and analyze security and system event data for operational and security monitoring.
 
-- Automated Windows system health checks using PowerShell
-- Performed system diagnostics and operational checks
-- Applied Windows administration and troubleshooting techniques
-- Demonstrated PowerShell scripting and infrastructure automation
-- Reduced manual effort involved in routine system health verification
+- Ingested and analyzed over 69,000 events across hundreds of hosts
+- Used Splunk Search Processing Language (SPL) to investigate system and security activity
+- Analyzed Windows and PowerShell-related events to identify notable activity and patterns
+- Applied SIEM, log analysis, and security-monitoring techniques
+- Created targeted searches to support troubleshooting, investigation, and incident analysis
 
 ## Featured Repositories
 *   **[IT Support, IAM, & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs)**: Hands-on simulations featuring Active Directory provisioning, network troubleshooting, network packet analysis, and endpoint security hardening.
@@ -70,12 +70,6 @@ Developed a PowerShell-based Windows health-check solution to automate system di
 ✔ CompTIA Security+
 
 ✔ CompTIA A+
-
-## Career Goals
-
-My goal is to continue advancing from IT support into systems administration, identity and access management, and cloud infrastructure. I am focused on developing deeper expertise in Microsoft Entra ID, Active Directory, Microsoft 365, PowerShell automation, endpoint management, and enterprise security.
-
-Long term, I aim to design, administer, automate, and secure reliable enterprise environments while continuing to expand my capabilities across cloud engineering, identity security, and cybersecurity.
 
 ---
 
