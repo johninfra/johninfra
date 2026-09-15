@@ -4,7 +4,7 @@
 
 I'm an IT professional with experience supporting Windows and Microsoft 365 environments, administering user access in Active Directory and Microsoft Entra ID, and troubleshooting endpoint, authentication, and network issues.
 
-I use this portfolio to document practical infrastructure labs, build PowerShell tools, and develop repeatable IT operations workflows.
+I use this portfolio to document practical infrastructure labs, build PowerShell tools and browser-based security utilities, and develop repeatable IT operations workflows.
 
 **Certifications:** CompTIA Security+ · CompTIA A+
 
@@ -16,6 +16,7 @@ I use this portfolio to document practical infrastructure labs, build PowerShell
 | --- | --- |
 | [IT Support & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs) | 26 documented labs covering Active Directory, Entra ID, Windows Server, Linux, Splunk, networking, and PowerShell, with implementation steps and screenshots. |
 | [Windows IT Diagnostic Toolkit](https://github.com/johninfra/windows-it-diagnostic-toolkit) | PowerShell scripts for system health, network connectivity, Defender, firewall, service, and event log checks, plus automated HTML reporting. |
+| [PhishLens — Phishing Email Detector](https://github.com/johninfra/phishing-email-detector) | Local browser analysis of pasted emails and .eml files, with explainable heuristic scoring, suspicious URL checks, sender-domain comparisons, attachment-name flags, and JSON report export. Includes a copy-and-run PowerShell launcher; no email uploads or API keys required. |
 | [Security+ Command Center](https://github.com/johninfra/security-plus-command-center) | Browser-based SY0-701 study dashboard with original scenario questions, flashcards, acronyms, ports and protocols, domain-readiness tracking, missed-question review, local progress storage, and an optional PowerShell launcher. |
 | [LabDesk ITSM Homelab](https://github.com/johninfra/labdesk-itsm-homelab) | A simulated service desk environment connecting users, departments, assets, and tickets, with Active Directory support scenarios and troubleshooting documentation. |
 | [IT AI Operations Playbook](https://github.com/johninfra/it-ai-operations-playbook) | IT standard operating procedures, AI-assisted support workflows, and automation playbooks for provisioning, ticket triage, investigations, and documentation. |
