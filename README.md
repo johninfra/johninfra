@@ -8,7 +8,7 @@ I use this portfolio to document practical infrastructure labs, build PowerShell
 
 **Certifications:** CompTIA Security+ · CompTIA A+
 
-[LinkedIn](https://www.linkedin.com/in/john-ty-tech) · [Lab portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs) · [All repositories](https://github.com/johninfra?tab=repositories)
+[Lab portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs) · [All repositories](https://github.com/johninfra?tab=repositories)
 
 ## Repositories
 
