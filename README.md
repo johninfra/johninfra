@@ -10,10 +10,19 @@ I use this portfolio to document practical infrastructure labs, build PowerShell
 
 [Lab portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs) · [All repositories](https://github.com/johninfra?tab=repositories)
 
+## Featured Project
+
+### [Private Wealth Cybersecurity Command Center](https://johninfra.github.io/private-wealth-cybersecurity-command-center/)
+
+A privacy-first, browser-based cybersecurity preparedness workspace designed for high-net-worth individuals, families, family offices, and trusted advisers. It combines a guided assessment, prioritized action plan, household access mapping, incident playbooks, travel readiness, and encrypted local backup—without accounts, analytics, or a backend.
+
+[Launch the live application](https://johninfra.github.io/private-wealth-cybersecurity-command-center/) · [View the source repository](https://github.com/johninfra/private-wealth-cybersecurity-command-center)
+
 ## Repositories
 
 | Repository | What you'll find |
 | --- | --- |
+| [Private Wealth Cybersecurity Command Center](https://github.com/johninfra/private-wealth-cybersecurity-command-center) ([live app](https://johninfra.github.io/private-wealth-cybersecurity-command-center/)) | Privacy-first preparedness workspace for high-net-worth households and trusted advisers, featuring guided assessments, prioritized actions, access mapping, incident playbooks, travel readiness, and encrypted local backup. |
 | [IT Support & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs) | 26 documented labs covering Active Directory, Entra ID, Windows Server, Linux, Splunk, networking, and PowerShell, with implementation steps and screenshots. |
 | [Windows IT Diagnostic Toolkit](https://github.com/johninfra/windows-it-diagnostic-toolkit) | PowerShell scripts for system health, network connectivity, Defender, firewall, service, and event log checks, plus automated HTML reporting. |
 | [PhishLens — Phishing Email Detector](https://github.com/johninfra/phishing-email-detector) | Local browser analysis of pasted emails and .eml files, with explainable heuristic scoring, suspicious URL checks, sender-domain comparisons, attachment-name flags, and JSON report export. Includes a copy-and-run PowerShell launcher; no email uploads or API keys required. |
