@@ -10,7 +10,13 @@ I use this portfolio to document practical infrastructure labs, build PowerShell
 
 [Lab portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs) · [All repositories](https://github.com/johninfra?tab=repositories)
 
-## Featured Project
+## Featured Projects
+
+### [Azure Enterprise Administration Lab](https://github.com/johninfra/azure-enterprise-administration-lab)
+
+Enterprise-style Microsoft Azure administration environment integrating segmented virtual networking, subnet-level NSGs, RBAC, Azure Policy and remediation, resource locks, cost governance, Azure Monitor Activity Log alerts, and Windows Server 2022 administration. Includes PowerShell validation and a full video walkthrough of the deployed environment.
+
+[View the repository](https://github.com/johninfra/azure-enterprise-administration-lab) · [Watch the video walkthrough](https://www.youtube.com/watch?v=ETXv-iHt-tE)
 
 ### [Private Wealth Cybersecurity Command Center](https://johninfra.github.io/private-wealth-cybersecurity-command-center/)
 
@@ -22,6 +28,7 @@ A privacy-first, browser-based cybersecurity preparedness workspace designed for
 
 | Repository | What you'll find |
 | --- | --- |
+| [Azure Enterprise Administration Lab](https://github.com/johninfra/azure-enterprise-administration-lab) ([video walkthrough](https://www.youtube.com/watch?v=ETXv-iHt-tE)) | Enterprise-style Azure environment covering VNet/subnet segmentation, NSGs, RBAC, Azure Policy remediation, resource locks, cost governance, Activity Log monitoring, Windows Server 2022, RDP, and PowerShell validation. |
 | [Private Wealth Cybersecurity Command Center](https://github.com/johninfra/private-wealth-cybersecurity-command-center) ([live app](https://johninfra.github.io/private-wealth-cybersecurity-command-center/)) | Privacy-first preparedness workspace for high-net-worth households and trusted advisers, featuring guided assessments, prioritized actions, access mapping, incident playbooks, travel readiness, and encrypted local backup. |
 | [IT Support & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs) | 26 documented labs covering Active Directory, Entra ID, Windows Server, Linux, Splunk, networking, and PowerShell, with implementation steps and screenshots. |
 | [Windows IT Diagnostic Toolkit](https://github.com/johninfra/windows-it-diagnostic-toolkit) | PowerShell scripts for system health, network connectivity, Defender, firewall, service, and event log checks, plus automated HTML reporting. |
@@ -43,6 +50,7 @@ A privacy-first, browser-based cybersecurity preparedness workspace designed for
 
 | Area | Tools & practices |
 | --- | --- |
+| Cloud & Azure | Azure Virtual Networks, subnets, NSGs, RBAC, Azure Policy, remediation, resource locks, Cost Management, Azure Monitor, Activity Log alerts, Windows Server VMs |
 | Identity & access | Active Directory, Microsoft Entra ID, Microsoft Graph, user lifecycle management, security groups, RBAC, least privilege |
 | Systems & endpoints | Windows 10/11, Windows Server 2022, Microsoft 365, Intune, Group Policy, Ubuntu, Kali Linux |
 | Automation & administration | PowerShell, Windows CMD, Linux CLI, RDP, SSH, VMware Workstation |
