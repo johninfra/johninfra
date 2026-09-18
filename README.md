@@ -12,6 +12,12 @@ I use this portfolio to document practical infrastructure labs, build PowerShell
 
 ## Featured Projects
 
+### [Azure Identity Governance Console](https://github.com/johninfra/azure-identity-governance-console)
+
+Browser-based enterprise IAM governance simulation covering identity lifecycle, security groups, Azure RBAC, access requests and approvals, privileged-access workflows, access reviews, MFA and identity-risk tracking, Conditional Access, audit logging, and portable JSON state. The application is source-controlled in GitHub, deployed through Azure Static Web Apps with GitHub Actions CI/CD, and protected with Microsoft Entra ID single-tenant OIDC authentication and Enterprise Application access controls.
+
+[View the repository](https://github.com/johninfra/azure-identity-governance-console)
+
 ### [Azure Enterprise Administration Lab](https://github.com/johninfra/azure-enterprise-administration-lab)
 
 Enterprise-style Microsoft Azure administration environment integrating segmented virtual networking, subnet-level NSGs, RBAC, Azure Policy and remediation, resource locks, cost governance, Azure Monitor Activity Log alerts, and Windows Server 2022 administration. Includes PowerShell validation and a full video walkthrough of the deployed environment.
@@ -34,6 +40,7 @@ A privacy-first, browser-based cybersecurity preparedness workspace designed for
 
 | Repository | What you'll find |
 | --- | --- |
+| [Azure Identity Governance Console](https://github.com/johninfra/azure-identity-governance-console) | Enterprise IAM governance simulation covering identity lifecycle, groups, Azure RBAC, access requests, privileged access, access reviews, identity risk, Conditional Access, audit logging, Entra ID OIDC authentication, Enterprise Application access controls, and GitHub Actions CI/CD deployment to Azure Static Web Apps. |
 | [Azure Enterprise Administration Lab](https://github.com/johninfra/azure-enterprise-administration-lab) ([video walkthrough](https://www.youtube.com/watch?v=ETXv-iHt-tE)) | Enterprise-style Azure environment covering VNet/subnet segmentation, NSGs, RBAC, Azure Policy remediation, resource locks, cost governance, Activity Log monitoring, Windows Server 2022, RDP, and PowerShell validation. |
 | [Azure Static Web Apps CI/CD Lab](https://github.com/johninfra/azure-static-web-apps-cicd-lab) ([video walkthrough](https://youtu.be/Gj0A1xJ5hoo)) | Deployed two self-created cybersecurity web applications from GitHub to Azure Static Web Apps using GitHub Actions CI/CD, deployment-token authorization, custom static build configuration, and documented deployment verification. |
 | [Private Wealth Cybersecurity Command Center](https://github.com/johninfra/private-wealth-cybersecurity-command-center) ([live app](https://johninfra.github.io/private-wealth-cybersecurity-command-center/)) | Privacy-first preparedness workspace for high-net-worth households and trusted advisers, featuring guided assessments, prioritized actions, access mapping, incident playbooks, travel readiness, and encrypted local backup. |
@@ -61,7 +68,7 @@ A privacy-first, browser-based cybersecurity preparedness workspace designed for
 | Area | Tools & practices |
 | --- | --- |
 | Cloud & Azure | Azure Virtual Networks, subnets, NSGs, RBAC, Azure Policy, remediation, resource locks, Cost Management, Azure Monitor, Activity Log alerts, Azure Static Web Apps, Windows Server VMs |
-| Identity & access | Active Directory, Microsoft Entra ID, Microsoft Graph, user lifecycle management, security groups, RBAC, least privilege |
+| Identity & access | Active Directory, Microsoft Entra ID, Microsoft Graph, App Registrations, Enterprise Applications, OIDC, user lifecycle management, security groups, RBAC, Conditional Access, least privilege |
 | Systems & endpoints | Windows 10/11, Windows Server 2022, Microsoft 365, Intune, Group Policy, Ubuntu, Kali Linux |
 | Automation & administration | PowerShell, GitHub Actions CI/CD, Windows CMD, Linux CLI, RDP, SSH, VMware Workstation |
 | Networking | TCP/IP, DNS, DHCP, VPN, SMB, Wireshark, Nmap |
