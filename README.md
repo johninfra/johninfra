@@ -18,6 +18,12 @@ Enterprise-style Microsoft Azure administration environment integrating segmente
 
 [View the repository](https://github.com/johninfra/azure-enterprise-administration-lab) · [Watch the video walkthrough](https://www.youtube.com/watch?v=ETXv-iHt-tE)
 
+### [Azure Static Web Apps CI/CD Lab](https://github.com/johninfra/azure-static-web-apps-cicd-lab)
+
+Deployed two cybersecurity web applications I created—Security+ Command Center and PhishLens—from GitHub into Microsoft Azure using Azure Static Web Apps and GitHub Actions CI/CD. Documents the repository-to-cloud deployment architecture, deployment-token authorization, build configuration, automated deployment workflow, verification process, and security considerations.
+
+[View the repository](https://github.com/johninfra/azure-static-web-apps-cicd-lab) · [Watch the Azure deployment walkthrough](https://youtu.be/Gj0A1xJ5hoo)
+
 ### [Private Wealth Cybersecurity Command Center](https://johninfra.github.io/private-wealth-cybersecurity-command-center/)
 
 A privacy-first, browser-based cybersecurity preparedness workspace designed for high-net-worth individuals, families, family offices, and trusted advisers. It combines a guided assessment, prioritized action plan, household access mapping, incident playbooks, travel readiness, and encrypted local backup—without accounts, analytics, or a backend.
@@ -29,6 +35,7 @@ A privacy-first, browser-based cybersecurity preparedness workspace designed for
 | Repository | What you'll find |
 | --- | --- |
 | [Azure Enterprise Administration Lab](https://github.com/johninfra/azure-enterprise-administration-lab) ([video walkthrough](https://www.youtube.com/watch?v=ETXv-iHt-tE)) | Enterprise-style Azure environment covering VNet/subnet segmentation, NSGs, RBAC, Azure Policy remediation, resource locks, cost governance, Activity Log monitoring, Windows Server 2022, RDP, and PowerShell validation. |
+| [Azure Static Web Apps CI/CD Lab](https://github.com/johninfra/azure-static-web-apps-cicd-lab) ([video walkthrough](https://youtu.be/Gj0A1xJ5hoo)) | Deployed two self-created cybersecurity web applications from GitHub to Azure Static Web Apps using GitHub Actions CI/CD, deployment-token authorization, custom static build configuration, and documented deployment verification. |
 | [Private Wealth Cybersecurity Command Center](https://github.com/johninfra/private-wealth-cybersecurity-command-center) ([live app](https://johninfra.github.io/private-wealth-cybersecurity-command-center/)) | Privacy-first preparedness workspace for high-net-worth households and trusted advisers, featuring guided assessments, prioritized actions, access mapping, incident playbooks, travel readiness, and encrypted local backup. |
 | [IT Support & Cybersecurity Labs](https://github.com/johninfra/it-support-and-cybersecurity-labs) | 26 documented labs covering Active Directory, Entra ID, Windows Server, Linux, Splunk, networking, and PowerShell, with implementation steps and screenshots. |
 | [Windows IT Diagnostic Toolkit](https://github.com/johninfra/windows-it-diagnostic-toolkit) | PowerShell scripts for system health, network connectivity, Defender, firewall, service, and event log checks, plus automated HTML reporting. |
@@ -50,10 +57,10 @@ A privacy-first, browser-based cybersecurity preparedness workspace designed for
 
 | Area | Tools & practices |
 | --- | --- |
-| Cloud & Azure | Azure Virtual Networks, subnets, NSGs, RBAC, Azure Policy, remediation, resource locks, Cost Management, Azure Monitor, Activity Log alerts, Windows Server VMs |
+| Cloud & Azure | Azure Virtual Networks, subnets, NSGs, RBAC, Azure Policy, remediation, resource locks, Cost Management, Azure Monitor, Activity Log alerts, Azure Static Web Apps, Windows Server VMs |
 | Identity & access | Active Directory, Microsoft Entra ID, Microsoft Graph, user lifecycle management, security groups, RBAC, least privilege |
 | Systems & endpoints | Windows 10/11, Windows Server 2022, Microsoft 365, Intune, Group Policy, Ubuntu, Kali Linux |
-| Automation & administration | PowerShell, Windows CMD, Linux CLI, RDP, SSH, VMware Workstation |
+| Automation & administration | PowerShell, GitHub Actions CI/CD, Windows CMD, Linux CLI, RDP, SSH, VMware Workstation |
 | Networking | TCP/IP, DNS, DHCP, VPN, SMB, Wireshark, Nmap |
 | Security & monitoring | Splunk, SPL, Sysmon, Windows Event Logs, Microsoft Defender, endpoint security assessment |
 | IT operations | Incident triage, ticket management, troubleshooting, escalation, technical documentation, SOP development |
