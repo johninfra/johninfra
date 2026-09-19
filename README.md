@@ -1,10 +1,14 @@
 # John Tyler
 
-**Systems Administration · Identity & Access Management · Cybersecurity**
+## Systems Administration · Cloud Infrastructure · Identity & Access Management · Cybersecurity
 
-I'm an IT professional with experience supporting Windows and Microsoft 365 environments, administering user access in Active Directory and Microsoft Entra ID, and troubleshooting endpoint, authentication, and network issues.
+I'm an IT professional focused on **systems administration, Microsoft Azure, identity and access management (IAM), cloud security, and cybersecurity operations**.
 
-I use this portfolio to document practical infrastructure labs, build PowerShell tools and browser-based security utilities, and develop repeatable IT operations workflows.
+My hands-on work includes administering **Windows, Microsoft 365, Active Directory, and Microsoft Entra ID environments**, managing users, groups, RBAC, MFA, authentication, and identity lifecycle workflows, and troubleshooting endpoint, networking, access, and cloud infrastructure issues.
+
+This GitHub documents practical projects across **Azure administration, Entra ID identity governance, PowerShell automation, security monitoring, vulnerability management, DevOps/CI/CD, Windows administration, networking, and IAM**. I also build browser-based security and IT operations tools that turn technical concepts into usable workflows and applications.
+
+Recent projects include deploying applications through **Azure Static Web Apps and GitHub Actions**, integrating applications with **Microsoft Entra ID authentication**, implementing access controls, and building enterprise-style identity governance and administration environments.
 
 **Certifications:** CompTIA Security+ · CompTIA A+
 
