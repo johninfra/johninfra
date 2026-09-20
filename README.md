@@ -4,17 +4,23 @@
 
 I'm an IT professional focused on **systems administration, Microsoft Azure, identity and access management (IAM), cloud security, and cybersecurity operations**.
 
-My hands-on work includes administering **Windows, Microsoft 365, Active Directory, and Microsoft Entra ID environments**, managing users, groups, RBAC, MFA, authentication, and identity lifecycle workflows, and troubleshooting endpoint, networking, access, and cloud infrastructure issues.
+My hands-on work includes administering **Windows, Microsoft 365, Active Directory, Microsoft Entra ID, and Microsoft Azure environments**; managing users and security groups; supporting MFA and authentication; applying group-based Azure RBAC; validating effective permissions; and testing access provisioning and revocation.
 
 This GitHub documents practical projects across **Azure administration, Entra ID identity governance, PowerShell automation, security monitoring, vulnerability management, DevOps/CI/CD, Windows administration, networking, and IAM**. I also build browser-based security and IT operations tools that turn technical concepts into usable workflows and applications.
 
-Recent projects include deploying applications through **Azure Static Web Apps and GitHub Actions**, integrating applications with **Microsoft Entra ID authentication**, implementing access controls, building enterprise-style identity governance environments, and automating Azure Windows diagnostics with **GitHub OIDC workload identity federation, Azure RBAC, Azure VM Run Command, and PowerShell**.
+Recent projects include implementing an **Entra ID MFA and Azure RBAC access lifecycle**, building an enterprise Azure administration environment, deploying Entra-protected applications through **Azure Static Web Apps and GitHub Actions**, and automating Windows diagnostics with **GitHub OIDC workload identity federation, Azure RBAC, Azure VM Run Command, and PowerShell**.
 
 **Certifications:** CompTIA Security+ · CompTIA A+
 
 [Lab portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs) · [All repositories](https://github.com/johninfra?tab=repositories)
 
 ## Featured Projects
+
+### [Azure MFA & RBAC Lifecycle Administration](https://github.com/johninfra/azure-mfa-rbac-lifecycle-administration)
+
+Hands-on Microsoft Entra ID and Azure IAM lab covering user and security-group administration, Microsoft Authenticator registration, group-based Azure RBAC, least-privilege resource scoping, end-user access validation, and access revocation. Demonstrates the full access lifecycle from authentication and authorization through deprovisioning and verification.
+
+[View the repository](https://github.com/johninfra/azure-mfa-rbac-lifecycle-administration)
 
 ### [Azure Identity Governance Console](https://github.com/johninfra/azure-identity-governance-console)
 
@@ -46,10 +52,11 @@ A privacy-first, browser-based cybersecurity preparedness workspace designed for
 
 [Launch the live application](https://johninfra.github.io/private-wealth-cybersecurity-command-center/) · [View the source repository](https://github.com/johninfra/private-wealth-cybersecurity-command-center)
 
-## Repositories
+## Key Repositories
 
 | Repository | What you'll find |
 | --- | --- |
+| [Azure MFA & RBAC Lifecycle Administration](https://github.com/johninfra/azure-mfa-rbac-lifecycle-administration) | Hands-on IAM lifecycle lab covering Entra ID users and groups, Microsoft Authenticator registration, group-based Azure RBAC, least-privilege resource scoping, effective-access validation, and verified access revocation. |
 | [Azure Identity Governance Console](https://github.com/johninfra/azure-identity-governance-console) | Enterprise IAM governance simulation covering identity lifecycle, groups, Azure RBAC, access requests, privileged access, access reviews, identity risk, Conditional Access, audit logging, Entra ID OIDC authentication, Enterprise Application access controls, and GitHub Actions CI/CD deployment to Azure Static Web Apps. |
 | [Azure Enterprise Administration Lab](https://github.com/johninfra/azure-enterprise-administration-lab) ([video walkthrough](https://www.youtube.com/watch?v=ETXv-iHt-tE)) | Enterprise-style Azure environment covering VNet/subnet segmentation, NSGs, RBAC, Azure Policy remediation, resource locks, cost governance, Activity Log monitoring, Windows Server 2022, RDP, and PowerShell validation. |
 | [Azure Windows Diagnostic Automation Workflow](https://github.com/johninfra/azure-windows-diagnostic-automation-workflow) | GitHub Actions automation using Entra OIDC workload identity federation, scoped Azure RBAC, Azure CLI, VM Run Command, PowerShell diagnostics, persistent HTML reporting, and automatic VM lifecycle management. |
@@ -79,7 +86,7 @@ A privacy-first, browser-based cybersecurity preparedness workspace designed for
 | Area | Tools & practices |
 | --- | --- |
 | Cloud & Azure | Azure Virtual Networks, subnets, NSGs, RBAC, Azure Policy, remediation, resource locks, Cost Management, Azure Monitor, Activity Log alerts, Azure Static Web Apps, Windows Server VMs, Azure CLI, Azure VM Run Command |
-| Identity & access | Active Directory, Microsoft Entra ID, Microsoft Graph, App Registrations, Enterprise Applications, OIDC, workload identity federation, user lifecycle management, security groups, RBAC, Conditional Access, least privilege |
+| Identity & access | Active Directory, Microsoft Entra ID, Microsoft Graph, Microsoft Authenticator, MFA, security groups, group-based Azure RBAC, user provisioning/deprovisioning, effective-access validation, App Registrations, Enterprise Applications, OIDC, workload identity federation, Conditional Access, least privilege |
 | Systems & endpoints | Windows 10/11, Windows Server 2022, Microsoft 365, Intune, Group Policy, Ubuntu, Kali Linux |
 | Automation & administration | PowerShell, GitHub Actions CI/CD, Windows CMD, Linux CLI, RDP, SSH, VMware Workstation |
 | Networking | TCP/IP, DNS, DHCP, VPN, SMB, Wireshark, Nmap |
