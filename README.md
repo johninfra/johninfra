@@ -8,13 +8,19 @@ My hands-on work includes administering **Windows, Microsoft 365, Active Directo
 
 This GitHub documents practical projects across **Azure administration, Entra ID identity governance, PowerShell automation, security monitoring, vulnerability management, DevOps/CI/CD, Windows administration, networking, and IAM**. I also build browser-based security and IT operations tools that turn technical concepts into usable workflows and applications.
 
-Recent projects include building a **live Azure Tenant Governance Dashboard** that authenticates to Microsoft Entra ID and queries Microsoft Graph and Azure Resource Manager for real tenant governance data, implementing an **Entra ID MFA and Azure RBAC access lifecycle**, building an enterprise Azure administration environment, deploying applications through **Azure Static Web Apps and GitHub Actions**, and automating Windows diagnostics with **GitHub OIDC workload identity federation, Azure RBAC, Azure VM Run Command, and PowerShell**.
+Recent projects include implementing a **Microsoft Entra Conditional Access + PIM/JIT privileged-access lab** with Azure management MFA, break-glass exclusions, eligible Azure RBAC assignments, time-bound Contributor activation, and Azure Monitor audit validation; building a **live Azure Tenant Governance Dashboard** that authenticates to Microsoft Entra ID and queries Microsoft Graph and Azure Resource Manager for real tenant governance data, implementing an **Entra ID MFA and Azure RBAC access lifecycle**, building an enterprise Azure administration environment, deploying applications through **Azure Static Web Apps and GitHub Actions**, and automating Windows diagnostics with **GitHub OIDC workload identity federation, Azure RBAC, Azure VM Run Command, and PowerShell**.
 
 **Certifications:** CompTIA Security+ · CompTIA A+
 
 [Lab portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs) · [All repositories](https://github.com/johninfra?tab=repositories)
 
 ## Featured Projects
+
+### [Microsoft Entra Conditional Access + PIM JIT Governance Lab](https://github.com/johninfra/entra-conditional-access-pim-jit)
+
+Live Microsoft Entra ID and Azure security-engineering lab demonstrating Zero Trust administrative access and privileged-access governance. Replaced Security Defaults with a scoped Conditional Access policy requiring MFA for Microsoft Azure Management, implemented a dedicated break-glass exclusion path, removed standing Contributor access, and converted the role to a Microsoft Entra PIM eligible assignment with two-hour JIT activation, MFA, justification, and ticket requirements. Validation includes Entra sign-in logs, PIM activation, Azure RBAC behavior, and Azure Monitor Activity Log telemetry.
+
+[View the repository](https://github.com/johninfra/entra-conditional-access-pim-jit)
 
 ### [Azure Tenant Governance Dashboard](https://github.com/johninfra/azure-tenant-governance-dashboard)
 
@@ -62,6 +68,7 @@ A privacy-first, browser-based cybersecurity preparedness workspace designed for
 
 | Repository | What you'll find |
 | --- | --- |
+| [Microsoft Entra Conditional Access + PIM JIT Governance Lab](https://github.com/johninfra/entra-conditional-access-pim-jit) | Live Entra ID and Azure privileged-access lab covering Conditional Access, Azure management MFA, break-glass exclusions, Azure RBAC, Microsoft Entra PIM, eligible vs active assignments, two-hour JIT Contributor activation, justification/ticket controls, sign-in validation, and Azure Monitor audit telemetry. |
 | [Azure Tenant Governance Dashboard](https://github.com/johninfra/azure-tenant-governance-dashboard) ([live Azure app](https://icy-forest-0df58d91e.6.azurestaticapps.net)) | Live read-only Entra ID and Azure governance dashboard using MSAL, OAuth 2.0/PKCE, Microsoft Graph, Azure Resource Manager, MFA posture review, privileged-role inventory, Azure RBAC analysis, least-privilege findings, JSON/CSV export, and GitHub Actions deployment to Azure Static Web Apps. |
 | [Azure MFA & RBAC Lifecycle Administration](https://github.com/johninfra/azure-mfa-rbac-lifecycle-administration) | Hands-on IAM lifecycle lab covering Entra ID users and groups, Microsoft Authenticator registration, group-based Azure RBAC, least-privilege resource scoping, effective-access validation, and verified access revocation. |
 | [Azure Identity Governance Console](https://github.com/johninfra/azure-identity-governance-console) | Enterprise IAM governance simulation covering identity lifecycle, groups, Azure RBAC, access requests, privileged access, access reviews, identity risk, Conditional Access, audit logging, Entra ID OIDC authentication, Enterprise Application access controls, and GitHub Actions CI/CD deployment to Azure Static Web Apps. |
@@ -93,7 +100,7 @@ A privacy-first, browser-based cybersecurity preparedness workspace designed for
 | Area | Tools & practices |
 | --- | --- |
 | Cloud & Azure | Azure Virtual Networks, subnets, NSGs, RBAC, Azure Policy, remediation, resource locks, Cost Management, Azure Monitor, Activity Log alerts, Azure Static Web Apps, Azure Resource Manager REST APIs, Windows Server VMs, Azure CLI, Azure VM Run Command |
-| Identity & access | Active Directory, Microsoft Entra ID, Microsoft Graph, MSAL.js, OAuth 2.0/PKCE, Microsoft Authenticator, MFA, security groups, group-based Azure RBAC, user provisioning/deprovisioning, effective-access validation, App Registrations, Enterprise Applications, OIDC, workload identity federation, Conditional Access, least privilege |
+| Identity & access | Active Directory, Microsoft Entra ID, Microsoft Graph, MSAL.js, OAuth 2.0/PKCE, Microsoft Authenticator, MFA, security groups, group-based Azure RBAC, user provisioning/deprovisioning, effective-access validation, App Registrations, Enterprise Applications, OIDC, workload identity federation, Conditional Access, Privileged Identity Management (PIM), just-in-time (JIT) access, eligible vs active assignments, break-glass design, least privilege |
 | Systems & endpoints | Windows 10/11, Windows Server 2022, Microsoft 365, Intune, Group Policy, Ubuntu, Kali Linux |
 | Automation & administration | PowerShell, GitHub Actions CI/CD, Windows CMD, Linux CLI, RDP, SSH, VMware Workstation |
 | Networking | TCP/IP, DNS, DHCP, VPN, SMB, Wireshark, Nmap |
