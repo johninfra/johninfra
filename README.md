@@ -82,6 +82,7 @@ A privacy-first, browser-based cybersecurity preparedness workspace designed for
 | [Security+ Command Center](https://github.com/johninfra/security-plus-command-center) | Browser-based SY0-701 study dashboard with original scenario questions, flashcards, acronyms, ports and protocols, domain-readiness tracking, missed-question review, local progress storage, and an optional PowerShell launcher. |
 | [LabDesk ITSM Platform Homelab](https://github.com/johninfra/labdesk-itsm-homelab) | A simulated service desk environment connecting users, departments, assets, and tickets, with Active Directory support scenarios and troubleshooting documentation. |
 | [IT AI Operations Playbook](https://github.com/johninfra/it-ai-operations-playbook) | IT standard operating procedures, AI-assisted support workflows, and automation playbooks for provisioning, ticket triage, investigations, and documentation. |
+| [Git Practice](https://github.com/johninfra/git-practice) | Hands-on Git and GitHub practice in VS Code covering core version-control commands, commits, branching, merging, remote repositories, and repeatable repository workflows. |
 | [GitHub Profile](https://github.com/johninfra/johninfra) | The README and navigation for this portfolio. |
 
 ## Selected Labs
@@ -102,7 +103,7 @@ A privacy-first, browser-based cybersecurity preparedness workspace designed for
 | Cloud & Azure | Azure Virtual Networks, subnets, NSGs, RBAC, Azure Policy, remediation, resource locks, Cost Management, Azure Monitor, Activity Log alerts, Azure Static Web Apps, Azure Resource Manager REST APIs, Windows Server VMs, Azure CLI, Azure VM Run Command |
 | Identity & access | Active Directory, Microsoft Entra ID, Microsoft Graph, MSAL.js, OAuth 2.0/PKCE, Microsoft Authenticator, MFA, security groups, group-based Azure RBAC, user provisioning/deprovisioning, effective-access validation, App Registrations, Enterprise Applications, OIDC, workload identity federation, Conditional Access, Privileged Identity Management (PIM), just-in-time (JIT) access, eligible vs active assignments, break-glass design, least privilege |
 | Systems & endpoints | Windows 10/11, Windows Server 2022, Microsoft 365, Intune, Group Policy, Ubuntu, Kali Linux |
-| Automation & administration | PowerShell, GitHub Actions CI/CD, Windows CMD, Linux CLI, RDP, SSH, VMware Workstation |
+| Automation & administration | PowerShell, Git, GitHub, GitHub Actions CI/CD, Windows CMD, Linux CLI, RDP, SSH, VMware Workstation |
 | Networking | TCP/IP, DNS, DHCP, VPN, SMB, Wireshark, Nmap |
 | Security & monitoring | Splunk, SPL, Sysmon, Windows Event Logs, Microsoft Defender, endpoint security assessment |
 | IT operations | Incident triage, ticket management, troubleshooting, escalation, technical documentation, SOP development |
