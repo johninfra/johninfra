@@ -8,13 +8,19 @@ My hands-on work includes administering **Windows, Microsoft 365, Active Directo
 
 This GitHub documents practical projects across **Azure administration, Entra ID identity governance, PowerShell automation, security monitoring, vulnerability management, DevOps/CI/CD, Windows administration, networking, and IAM**. I also build browser-based security and IT operations tools that turn technical concepts into usable workflows and applications.
 
-Recent projects include implementing a **Microsoft Entra Conditional Access + PIM/JIT privileged-access lab** with Azure management MFA, break-glass exclusions, eligible Azure RBAC assignments, time-bound Contributor activation, and Azure Monitor audit validation; building a **live Azure Tenant Governance Dashboard** that authenticates to Microsoft Entra ID and queries Microsoft Graph and Azure Resource Manager for real tenant governance data, implementing an **Entra ID MFA and Azure RBAC access lifecycle**, building an enterprise Azure administration environment, deploying applications through **Azure Static Web Apps and GitHub Actions**, and automating Windows diagnostics with **GitHub OIDC workload identity federation, Azure RBAC, Azure VM Run Command, and PowerShell**.
+Recent projects include building a **CyberOps Triage Lab** with 27 hands-on SOC, IAM, identity-incident, Azure/Entra, investigation, and ticket-triage scenarios; implementing a **Microsoft Entra Conditional Access + PIM/JIT privileged-access lab** with Azure management MFA, break-glass exclusions, eligible Azure RBAC assignments, time-bound Contributor activation, and Azure Monitor audit validation; building a **live Azure Tenant Governance Dashboard** that authenticates to Microsoft Entra ID and queries Microsoft Graph and Azure Resource Manager for real tenant governance data; implementing an **Entra ID MFA and Azure RBAC access lifecycle**; building an enterprise Azure administration environment; deploying applications through **Azure Static Web Apps and GitHub Actions**; and automating Windows diagnostics with **GitHub OIDC workload identity federation, Azure RBAC, Azure VM Run Command, and PowerShell**.
 
 **Certifications:** CompTIA Security+ · CompTIA A+
 
 [Lab portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs) · [All repositories](https://github.com/johninfra?tab=repositories)
 
 ## Featured Projects
+
+### [CyberOps Triage Lab](https://github.com/johninfra/cyberops-triage-lab)
+
+Interactive browser-based cybersecurity operations training console built with React, TypeScript, and Vite for practicing SOC triage, IAM administration, incident response, Azure/Entra access decisions, and ticket prioritization. Includes **27 playable scenarios**, evidence citation, searchable sign-in and audit-log records, access-path analysis, containment sequencing, detailed debriefs, 0–100 scoring, XP and rank progression, achievements, local progress persistence, and automated engine/browser testing. All scenarios use fictional evidence and run locally without requiring a cloud tenant, backend, account, or API key.
+
+[View the repository](https://github.com/johninfra/cyberops-triage-lab)
 
 ### [Microsoft Entra Conditional Access + PIM JIT Governance Lab](https://github.com/johninfra/entra-conditional-access-pim-jit)
 
@@ -68,6 +74,7 @@ A privacy-first, browser-based cybersecurity preparedness workspace designed for
 
 | Repository | What you'll find |
 | --- | --- |
+| [CyberOps Triage Lab](https://github.com/johninfra/cyberops-triage-lab) | Interactive SOC/IAM training console with 27 playable scenarios covering alert triage, identity incidents, Azure/Entra access decisions, investigations, ticket prioritization, evidence citation, searchable security events, access-path analysis, remediation sequencing, scoring/XP progression, and automated React/TypeScript browser testing. |
 | [Microsoft Entra Conditional Access + PIM JIT Governance Lab](https://github.com/johninfra/entra-conditional-access-pim-jit) | Live Entra ID and Azure privileged-access lab covering Conditional Access, Azure management MFA, break-glass exclusions, Azure RBAC, Microsoft Entra PIM, eligible vs active assignments, two-hour JIT Contributor activation, justification/ticket controls, sign-in validation, and Azure Monitor audit telemetry. |
 | [Azure Tenant Governance Dashboard](https://github.com/johninfra/azure-tenant-governance-dashboard) ([live Azure app](https://icy-forest-0df58d91e.6.azurestaticapps.net)) | Live read-only Entra ID and Azure governance dashboard using MSAL, OAuth 2.0/PKCE, Microsoft Graph, Azure Resource Manager, MFA posture review, privileged-role inventory, Azure RBAC analysis, least-privilege findings, JSON/CSV export, and GitHub Actions deployment to Azure Static Web Apps. |
 | [Azure MFA & RBAC Lifecycle Administration](https://github.com/johninfra/azure-mfa-rbac-lifecycle-administration) | Hands-on IAM lifecycle lab covering Entra ID users and groups, Microsoft Authenticator registration, group-based Azure RBAC, least-privilege resource scoping, effective-access validation, and verified access revocation. |
