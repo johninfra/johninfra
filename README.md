@@ -1,12 +1,12 @@
 # John Tyler
 
-**Identity & Access Management · Microsoft Entra ID · Azure Administration**
+**Identity & Access Management · Cloud Administration · Cybersecurity · IT Infrastructure**
 
 [Portfolio](https://johncalvintyler.com) · [All repositories](https://github.com/johninfra?tab=repositories) · [Try CyberOps Triage Lab](https://johninfra.github.io/cyberops-triage-lab/)
 
-I'm an IT professional with a background in Windows, Microsoft 365, Active Directory, and identity/access support. My hands-on lab work focuses on **Entra ID, Conditional Access, PIM/JIT, and Azure RBAC**, with access validated through test-user sessions and audit telemetry.
+I'm an **IAM, cloud, cybersecurity, and IT infrastructure professional** building hands-on expertise across Microsoft Entra ID, Azure, Microsoft 365, Windows, and security operations. My work spans **identity administration, access governance, cloud administration, automation, systems troubleshooting, and security analysis**, backed by practical labs and live technical projects.
 
-I build governance applications, automate administrative workflows, and document the configuration, troubleshooting, and evidence behind each project.
+I design and build governance applications, implement **Conditional Access, PIM/JIT, Azure RBAC, MFA, and identity lifecycle controls**, automate administrative workflows with PowerShell, Azure CLI, Microsoft Graph, and GitHub Actions, and document the configuration, troubleshooting, validation, and audit evidence behind each project.
 
 **Credentials:** CompTIA Security+ · CompTIA A+ · A.S. in Computer Information Systems
 
