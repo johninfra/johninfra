@@ -12,10 +12,10 @@ Credentials: CompTIA Security+ · CompTIA A+ · A.S. in Computer Information Sys
 
 ## Core Skills
 
-- **Identity administration: Entra ID, Active Directory, users and security groups, provisioning/deprovisioning, MFA, app registrations, and Enterprise Applications.
-- **Access governance: Conditional Access, PIM, eligible vs. active assignments, JIT activation, Azure RBAC, effective-access analysis, and least privilege.
-- **Cloud and automation: Azure CLI, PowerShell, Microsoft Graph, Azure Resource Manager, GitHub Actions, OIDC workload identity federation, and Azure Static Web Apps.
-- **Systems and security: Windows Server, Microsoft 365, Linux, DNS/VPN troubleshooting, Splunk/SPL, Sysmon, Windows Event Logs, and endpoint diagnostics.
+- **Identity administration:** Entra ID, Active Directory, users and security groups, provisioning/deprovisioning, MFA, app registrations, and Enterprise Applications.
+- **Access governance:** Conditional Access, PIM, eligible vs. active assignments, JIT activation, Azure RBAC, effective-access analysis, and least privilege.
+- **Cloud and automation:** Azure CLI, PowerShell, Microsoft Graph, Azure Resource Manager, GitHub Actions, OIDC workload identity federation, and Azure Static Web Apps.
+- **Systems and security:** Windows Server, Microsoft 365, Linux, DNS/VPN troubleshooting, Splunk/SPL, Sysmon, Windows Event Logs, and endpoint diagnostics.
 
 ## Featured IAM Projects
 
