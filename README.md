@@ -1,6 +1,6 @@
 # John Tyler
 
-Identity & Access Management · Cloud Administration · Cybersecurity · IT Infrastructure
+Identity & Access Management · Entra ID · Azure · Cloud Security
 
 [Portfolio](https://johncalvintyler.com) · [All repositories](https://github.com/johninfra?tab=repositories) · [Try CyberOps Triage Lab](https://johninfra.github.io/cyberops-triage-lab/)
 
