@@ -41,3 +41,9 @@ All scenarios use fictional data; no cloud tenant or account is required.
 - [Azure Windows Diagnostic Automation](https://github.com/johninfra/azure-windows-diagnostic-automation-workflow) — GitHub Actions OIDC, scoped RBAC, VM Run Command, PowerShell reporting, and VM deallocation. [Diagnostic toolkit source](https://github.com/johninfra/windows-it-diagnostic-toolkit).
 - [IT Support & Cybersecurity Lab Portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs) — 27 documented labs covering Active Directory, Windows/Linux administration, networking, Splunk, PowerShell, and cloud identity.
 - [Azure CLI Resource Group Lifecycle](https://github.com/johninfra/azure-cli-resource-group-lifecycle-lab) — Create, verify, delete, and confirm cleanup of Azure resource groups through Cloud Shell.
+
+## Security+ Command Center
+
+A free, browser-based **CompTIA Security+ SY0-701 study app** I built with **300 original practice questions**, **50 interactive flashcards**, timed randomized mock exams (10, 25, 50, or 90 questions), difficulty and domain filters, answer explanations, and missed-question tracking. Includes an acronym trainer, common ports/protocols reference, and local-only study progress storage. Independent educational project; not affiliated with CompTIA.
+
+[Launch the Security+ Command Center](https://johninfra.github.io/security-plus-command-center/) · [View the source code](https://github.com/johninfra/security-plus-command-center)
