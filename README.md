@@ -21,9 +21,9 @@ Credentials: CompTIA Security+ · CompTIA A+ · A.S. in Computer Information Sys
 
 | Project | What it demonstrates |
 | --- | --- |
-| [Azure Identity Governance Console](https://github.com/johninfra/azure-identity-governance-console) | Read-only live Graph/ARM integration, Identity 360, access-path analysis, privilege exposure, and sign-in/audit review. The public demo uses sample data. |
+| [Azure Enterprise Administration Lab](https://github.com/johninfra/azure-enterprise-administration-lab) | Azure virtual networking, NSGs, resource-scoped RBAC, Azure Policy, resource locks, activity monitoring, and Windows Server administration. |
 | [Conditional Access + PIM/JIT](https://github.com/johninfra/entra-conditional-access-pim-jit) | Azure management MFA, emergency-access exclusions, and two-hour Contributor activation with justification and ticket metadata; validated through sign-in and Activity Logs. |
-| [PIM JIT RBAC Activation](https://github.com/johninfra/azure-pim-jit-rbac-activation-lab) | Group-derived eligible Reader access, time-bound activation, and administrator verification through PIM audit history and Azure IAM access checks. |
+| [Azure CLI Resource Group Lifecycle Lab](https://github.com/johninfra/azure-cli-resource-group-lifecycle-lab) | Azure CLI and Cloud Shell resource-group creation, verification, deletion, and cleanup validation. |
 | [MFA & RBAC Access Lifecycle](https://github.com/johninfra/azure-mfa-rbac-lifecycle-administration) | User/group administration, Authenticator enrollment, resource-scoped Reader access, and verified access revocation using a test-user session. |
 | [Azure Tenant Governance Dashboard](https://github.com/johninfra/azure-tenant-governance-dashboard) | Read-only Entra/Azure inventory, MFA registration posture, privileged-role and RBAC review, governance findings, and JSON/CSV exports. |
 
