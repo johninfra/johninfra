@@ -21,6 +21,7 @@ Credentials: CompTIA Security+ · CompTIA A+ · A.S. in Computer Information Sys
 
 | Project | What it demonstrates |
 | --- | --- |
+| [Entra PIM Group JIT Access Lifecycle Lab](https://github.com/johninfra/entra-pim-group-jit-access-lifecycle-lab) | Role-assignable Entra group, eligible administrator membership, two-hour MFA-protected PIM activation, and audited membership activation/removal using a test identity. |
 | [Azure Enterprise Administration Lab](https://github.com/johninfra/azure-enterprise-administration-lab) | Azure virtual networking, NSGs, resource-scoped RBAC, Azure Policy, resource locks, activity monitoring, and Windows Server administration. |
 | [Phishing-Resistant MFA with YubiKey](https://github.com/johninfra/entra-phishing-resistant-mfa-yubikey-lab) | Microsoft Entra Conditional Access, FIDO2 security key authentication with YubiKey, phishing-resistant MFA enforcement, and sign-in validation. |
 | [Conditional Access + PIM/JIT](https://github.com/johninfra/entra-conditional-access-pim-jit) | Azure management MFA, emergency-access exclusions, and two-hour Contributor activation with justification and ticket metadata; validated through sign-in and Activity Logs. |
