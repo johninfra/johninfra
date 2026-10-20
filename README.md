@@ -22,6 +22,7 @@ Credentials: CompTIA Security+ · CompTIA A+ · A.S. in Computer Information Sys
 | Project | What it demonstrates |
 | --- | --- |
 | [Azure Enterprise Administration Lab](https://github.com/johninfra/azure-enterprise-administration-lab) | Azure virtual networking, NSGs, resource-scoped RBAC, Azure Policy, resource locks, activity monitoring, and Windows Server administration. |
+| [Phishing-Resistant MFA with YubiKey](https://github.com/johninfra/entra-phishing-resistant-mfa-yubikey-lab) | Microsoft Entra Conditional Access, FIDO2 security key authentication with YubiKey, phishing-resistant MFA enforcement, and sign-in validation. |
 | [Conditional Access + PIM/JIT](https://github.com/johninfra/entra-conditional-access-pim-jit) | Azure management MFA, emergency-access exclusions, and two-hour Contributor activation with justification and ticket metadata; validated through sign-in and Activity Logs. |
 | [Azure CLI Resource Group Lifecycle Lab](https://github.com/johninfra/azure-cli-resource-group-lifecycle-lab) | Azure CLI and Cloud Shell resource-group creation, verification, deletion, and cleanup validation. |
 | [MFA & RBAC Access Lifecycle](https://github.com/johninfra/azure-mfa-rbac-lifecycle-administration) | User/group administration, Authenticator enrollment, resource-scoped Reader access, and verified access revocation using a test-user session. |
