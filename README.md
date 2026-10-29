@@ -2,7 +2,7 @@
 
 Identity & Access Management · Entra ID · Azure · Cloud Security
 
-[Portfolio](https://johncalvintyler.com) · [All repositories](https://github.com/johninfra?tab=repositories) · [Try CyberOps Triage Lab](https://johninfra.github.io/cyberops-triage-lab/)
+[All repositories](https://github.com/johninfra?tab=repositories) · [Try CyberOps Triage Lab](https://johninfra.github.io/cyberops-triage-lab/)
 
 I'm an IAM, cloud, cybersecurity, and IT infrastructure professional building hands-on expertise across Microsoft Entra ID, Azure, Microsoft 365, Windows, and security operations. My work spans identity administration, access governance, cloud administration, automation, systems troubleshooting, and security analysis, backed by practical labs and live technical projects.
 
