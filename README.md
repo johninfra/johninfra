@@ -36,7 +36,7 @@ Selected projects illustrating identity governance, privileged-access controls, 
 | **[Entra Conditional Access + PIM/JIT Lab](https://github.com/johninfra/entra-conditional-access-pim-jit)** | Azure management MFA policy, emergency-access design, removal of standing privileges, time-bound Contributor activation, and audit validation. |
 | **[Entra PIM Group JIT Access Lifecycle](https://github.com/johninfra/entra-pim-group-jit-access-lifecycle-lab)** | Role-assignable groups, eligible membership, MFA-protected activation, expiration, and access-lifecycle evidence. |
 | **[Phishing-Resistant MFA with YubiKey](https://github.com/johninfra/entra-phishing-resistant-mfa-yubikey-lab)** | FIDO2 security-key authentication, Conditional Access authentication strength, and sign-in verification. |
-| **[Entra Privileged Sign-In Monitoring](https://github.com/johninfra/entra-privileged-signin-monitoring-alerts)** | Exporting Entra sign-in logs to Log Analytics and writing KQL for privileged-account monitoring; alert delivery is documented as not yet end-to-end validated. |
+| **[Entra Privileged Sign-In Monitoring & PIM Alerts](https://github.com/johninfra/entra-privileged-signin-monitoring-alerts)** | Entra sign-in ingestion to Log Analytics, KQL-based privileged-account monitoring, and validated native PIM role-activation email notification. Azure Monitor alert delivery remains unverified. |
 | **[Azure PIM/JIT RBAC Activation](https://github.com/johninfra/azure-pim-jit-rbac-activation-lab)** | Privileged Azure role eligibility, activation, scoping, and lifecycle governance. |
 | **[Azure MFA & RBAC Lifecycle Administration](https://github.com/johninfra/azure-mfa-rbac-lifecycle-administration)** | Identity provisioning, MFA enrollment, scoped RBAC assignments, and verified access removal. |
 
@@ -53,7 +53,7 @@ A complete directory of my **23 public repositories**, grouped by engineering do
 | [entra-conditional-access-pim-jit](https://github.com/johninfra/entra-conditional-access-pim-jit) | Conditional Access and privileged-access governance |
 | [entra-pim-group-jit-access-lifecycle-lab](https://github.com/johninfra/entra-pim-group-jit-access-lifecycle-lab) | PIM for Groups and JIT membership activation |
 | [entra-phishing-resistant-mfa-yubikey-lab](https://github.com/johninfra/entra-phishing-resistant-mfa-yubikey-lab) | FIDO2 / YubiKey authentication |
-| [entra-privileged-signin-monitoring-alerts](https://github.com/johninfra/entra-privileged-signin-monitoring-alerts) | Entra sign-in telemetry, KQL, and alert design |
+| [entra-privileged-signin-monitoring-alerts](https://github.com/johninfra/entra-privileged-signin-monitoring-alerts) | KQL sign-in monitoring and validated native PIM activation email notification |
 | [azure-pim-jit-rbac-activation-lab](https://github.com/johninfra/azure-pim-jit-rbac-activation-lab) | Time-limited Azure RBAC elevation |
 | [azure-mfa-rbac-lifecycle-administration](https://github.com/johninfra/azure-mfa-rbac-lifecycle-administration) | MFA, RBAC, and access lifecycle |
 
