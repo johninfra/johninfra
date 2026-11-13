@@ -42,7 +42,7 @@ Selected projects illustrating identity governance, privileged-access controls, 
 
 ## All Repositories
 
-A complete directory of my **23 public repositories**, grouped by engineering domain. Featured projects are also included here for easy discovery.
+A complete directory of my **22 public repositories**, grouped by engineering domain. Featured projects are also included here for easy discovery.
 
 ### Identity & Access Management (IAM)
 
