@@ -1,8 +1,8 @@
 # John Tyler
 
-**IAM Engineer / IAM Analyst | Microsoft Entra ID | Azure Identity & Cloud Security**
+**PIM / PAM Engineer | IAM Analyst | Microsoft Entra ID & Azure Security**
 
-Identity and access management practitioner focused on Microsoft Entra ID, identity governance, privileged access, and Azure cloud security. I bring three years of professional IT support experience alongside hands-on engineering labs that implement and validate enterprise IAM controls. My work combines end-user support experience with hands-on cloud labs, automation, and documented security controls.
+Identity and privileged access management practitioner focused on Microsoft Entra Privileged Identity Management (PIM), just-in-time privileged access, Azure RBAC, Conditional Access, and identity governance. I bring three years of professional IT support experience alongside hands-on Azure/Entra labs that implement, monitor, and validate privileged-access controls. My work combines operational troubleshooting with cloud security automation and documented evidence.
 
 I build practical projects around **Conditional Access, MFA, Privileged Identity Management (PIM), just-in-time access, Azure RBAC, identity monitoring, and administrative automation**. Each project emphasizes implementation, validation, troubleshooting, and clear technical documentation.
 
