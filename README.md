@@ -1,53 +1,93 @@
 # John Tyler
 
-Identity & Access Management · Entra ID · Azure · Cloud Security
+**IT Support Specialist | Identity & Access Management | Azure & Cloud Security**
 
-[All repositories](https://github.com/johninfra?tab=repositories) · [Try CyberOps Triage Lab](https://johninfra.github.io/cyberops-triage-lab/)
+IT professional with three years of IT support experience and a growing focus on Microsoft Entra ID, identity governance, Azure administration, and security engineering. My work combines end-user support experience with hands-on cloud labs, automation, and documented security controls.
 
-I'm an IAM, cloud, cybersecurity, and IT infrastructure professional building hands-on expertise across Microsoft Entra ID, Azure, Microsoft 365, Windows, and security operations. My work spans identity administration, access governance, cloud administration, automation, systems troubleshooting, and security analysis, backed by practical labs and live technical projects.
+I build practical projects around **Conditional Access, MFA, Privileged Identity Management (PIM), just-in-time access, Azure RBAC, identity monitoring, and administrative automation**. Each project emphasizes implementation, validation, troubleshooting, and clear technical documentation.
 
-I design and build governance applications, implement Conditional Access, PIM/JIT, Azure RBAC, MFA, and identity lifecycle controls, automate administrative workflows with PowerShell, Azure CLI, Microsoft Graph, and GitHub Actions, analyze Microsoft Entra sign-in telemetry with Kusto Query Language (KQL) in Azure Log Analytics, and document the configuration, troubleshooting, validation, and audit evidence behind each project.
+[Portfolio](https://johncalvintyler.com) · [All repositories](https://github.com/johninfra?tab=repositories) · [CyberOps Triage Lab](https://johninfra.github.io/cyberops-triage-lab/)
 
-Credentials: CompTIA Security+ · CompTIA A+ · A.S. in Computer Information Systems
+## Credentials
+
+- **CompTIA Security+** (SY0-701)
+- **CompTIA A+**
+- **A.S., Computer Information Systems**
+- **B.S., Computer Information Systems — Cloud track** (in progress)
 
 ## Core Skills
 
-- **Identity administration:** Entra ID, Active Directory, users and security groups, provisioning/deprovisioning, MFA, app registrations, and Enterprise Applications.
-- **Access governance:** Conditional Access, PIM, eligible vs. active assignments, JIT activation, Azure RBAC, effective-access analysis, and least privilege.
-- **Azure administration and automation:** Azure resource groups, virtual networks, NSGs, Azure RBAC, Azure Policy, resource locks, monitoring, Azure CLI, PowerShell, Microsoft Graph, Azure Resource Manager, GitHub Actions, OIDC workload identity federation, and Azure Static Web Apps.
-- **Log analysis and monitoring:** Kusto Query Language (KQL), Azure Monitor, and Log Analytics; Entra `SigninLogs` ingestion validation, time-based and account-specific filtering, successful/failed sign-in analysis, and result summarization.
-- **Systems and security:** Windows Server, Microsoft 365, Linux, DNS/VPN troubleshooting, Splunk/SPL, Sysmon, Windows Event Logs, and endpoint diagnostics.
-
-## Featured IAM Projects
-
-| Project | What it demonstrates |
+| Area | Technologies & practices |
 | --- | --- |
-| [Entra PIM Group JIT Access Lifecycle Lab](https://github.com/johninfra/entra-pim-group-jit-access-lifecycle-lab) | Role-assignable Entra group, eligible administrator membership, two-hour MFA-protected PIM activation, and audited membership activation/removal using a test identity. |
-| [Microsoft Entra Sign-In Monitoring with KQL](https://github.com/johninfra/entra-privileged-signin-monitoring-alerts) | Entra diagnostic settings, verified `SigninLogs` ingestion into Azure Log Analytics, and KQL queries for ingestion health and sign-ins involving monitored privileged accounts. |
-| [Azure Enterprise Administration Lab](https://github.com/johninfra/azure-enterprise-administration-lab) | Azure virtual networking, NSGs, resource-scoped RBAC, Azure Policy, resource locks, activity monitoring, and Windows Server administration. |
-| [Phishing-Resistant MFA with YubiKey](https://github.com/johninfra/entra-phishing-resistant-mfa-yubikey-lab) | Microsoft Entra Conditional Access, FIDO2 security key authentication with YubiKey, phishing-resistant MFA enforcement, and sign-in validation. |
-| [Conditional Access + PIM/JIT](https://github.com/johninfra/entra-conditional-access-pim-jit) | Azure management MFA, emergency-access exclusions, and two-hour Contributor activation with justification and ticket metadata; validated through sign-in and Activity Logs. |
-| [Azure CLI Resource Group Lifecycle Lab](https://github.com/johninfra/azure-cli-resource-group-lifecycle-lab) | Azure CLI and Cloud Shell resource-group creation, verification, deletion, and cleanup validation. |
-| [MFA & RBAC Access Lifecycle](https://github.com/johninfra/azure-mfa-rbac-lifecycle-administration) | User/group administration, Authenticator enrollment, resource-scoped Reader access, and verified access revocation using a test-user session. |
-| [Azure Tenant Governance Dashboard](https://github.com/johninfra/azure-tenant-governance-dashboard) | Read-only Entra/Azure inventory, MFA registration posture, privileged-role and RBAC review, governance findings, and JSON/CSV exports. |
+| **Identity & access management** | Microsoft Entra ID, Active Directory, Microsoft 365, user/group lifecycle, MFA, Conditional Access, PIM, JIT access, access reviews, RBAC, least privilege |
+| **Cloud administration** | Microsoft Azure, resource groups, virtual networks, NSGs, Azure Policy, Azure Monitor, Log Analytics, Azure Static Web Apps |
+| **Automation & development** | PowerShell, Azure CLI, Microsoft Graph, Git, GitHub Actions, OIDC federation, JavaScript, TypeScript |
+| **Security operations** | KQL, sign-in and audit-log analysis, privileged-access monitoring, Splunk, Windows Event Logs, incident triage |
+| **Systems & IT support** | Windows 10/11, Windows Server, Linux fundamentals, endpoint diagnostics, DNS, DHCP, VPN troubleshooting, device deployment, ticket-based support |
 
-## CyberOps Triage Lab
+## Featured IAM & Cloud Security Projects
 
-An interactive SOC and IAM training simulator built with React, TypeScript, and Vite. Its 27 scenarios cover alert triage, identity incidents, Azure/Entra access decisions, investigations, and ticket prioritization. Includes searchable evidence, access-path exploration, response sequencing, scoring, and detailed debriefs.
+Selected projects illustrating identity governance, privileged-access controls, authentication, and cloud security architecture.
 
-All scenarios use fictional data; no cloud tenant or account is required.
+| Project | Engineering focus |
+| --- | --- |
+| **[Azure Tenant Governance Dashboard](https://github.com/johninfra/azure-tenant-governance-dashboard)** | Read-only, multi-tenant Azure/Entra governance application using delegated Microsoft Graph and Azure Resource Manager access to review identities, privileged roles, RBAC, and resource topology. |
+| **[Azure Identity Governance Console](https://github.com/johninfra/azure-identity-governance-console)** | IAM operations simulation with optional read-only live-tenant integration; explores identity lifecycle, access reviews, roles, Conditional Access, and audit activity. |
+| **[Entra Conditional Access + PIM/JIT Lab](https://github.com/johninfra/entra-conditional-access-pim-jit)** | Azure management MFA policy, emergency-access design, removal of standing privileges, time-bound Contributor activation, and audit validation. |
+| **[Entra PIM Group JIT Access Lifecycle](https://github.com/johninfra/entra-pim-group-jit-access-lifecycle-lab)** | Role-assignable groups, eligible membership, MFA-protected activation, expiration, and access-lifecycle evidence. |
+| **[Phishing-Resistant MFA with YubiKey](https://github.com/johninfra/entra-phishing-resistant-mfa-yubikey-lab)** | FIDO2 security-key authentication, Conditional Access authentication strength, and sign-in verification. |
+| **[Entra Privileged Sign-In Monitoring](https://github.com/johninfra/entra-privileged-signin-monitoring-alerts)** | Exporting Entra sign-in logs to Log Analytics and writing KQL for privileged-account monitoring; alert delivery is documented as not yet end-to-end validated. |
+| **[Azure PIM/JIT RBAC Activation](https://github.com/johninfra/azure-pim-jit-rbac-activation-lab)** | Privileged Azure role eligibility, activation, scoping, and lifecycle governance. |
+| **[Azure MFA & RBAC Lifecycle Administration](https://github.com/johninfra/azure-mfa-rbac-lifecycle-administration)** | Identity provisioning, MFA enrollment, scoped RBAC assignments, and verified access removal. |
 
-[Launch the lab](https://johninfra.github.io/cyberops-triage-lab/) · [View the source](https://github.com/johninfra/cyberops-triage-lab)
+## All Repositories
 
-## Azure, Systems & Security Labs
+A complete directory of my **23 public repositories**, grouped by engineering domain. Featured projects are also included here for easy discovery.
 
-- [Azure Enterprise Administration](https://github.com/johninfra/azure-enterprise-administration-lab) — Network segmentation, NSGs, RBAC, Azure Policy remediation, resource locks, monitoring, and Windows Server. [Video walkthrough](https://www.youtube.com/watch?v=ETXv-iHt-tE).
-- [Azure Windows Diagnostic Automation](https://github.com/johninfra/azure-windows-diagnostic-automation-workflow) — GitHub Actions OIDC, scoped RBAC, VM Run Command, PowerShell reporting, and VM deallocation. [Diagnostic toolkit source](https://github.com/johninfra/windows-it-diagnostic-toolkit).
-- [IT Support & Cybersecurity Lab Portfolio](https://github.com/johninfra/it-support-and-cybersecurity-labs) — 27 documented labs covering Active Directory, Windows/Linux administration, networking, Splunk, PowerShell, and cloud identity.
-- [Azure CLI Resource Group Lifecycle](https://github.com/johninfra/azure-cli-resource-group-lifecycle-lab) — Create, verify, delete, and confirm cleanup of Azure resource groups through Cloud Shell.
+### Identity & Access Management (IAM)
 
-## Security+ Command Center
+| Repository | Focus |
+| --- | --- |
+| [azure-tenant-governance-dashboard](https://github.com/johninfra/azure-tenant-governance-dashboard) | Read-only Entra ID and Azure governance dashboard |
+| [azure-identity-governance-console](https://github.com/johninfra/azure-identity-governance-console) | IAM lifecycle and access-governance console |
+| [entra-conditional-access-pim-jit](https://github.com/johninfra/entra-conditional-access-pim-jit) | Conditional Access and privileged-access governance |
+| [entra-pim-group-jit-access-lifecycle-lab](https://github.com/johninfra/entra-pim-group-jit-access-lifecycle-lab) | PIM for Groups and JIT membership activation |
+| [entra-phishing-resistant-mfa-yubikey-lab](https://github.com/johninfra/entra-phishing-resistant-mfa-yubikey-lab) | FIDO2 / YubiKey authentication |
+| [entra-privileged-signin-monitoring-alerts](https://github.com/johninfra/entra-privileged-signin-monitoring-alerts) | Entra sign-in telemetry, KQL, and alert design |
+| [azure-pim-jit-rbac-activation-lab](https://github.com/johninfra/azure-pim-jit-rbac-activation-lab) | Time-limited Azure RBAC elevation |
+| [azure-mfa-rbac-lifecycle-administration](https://github.com/johninfra/azure-mfa-rbac-lifecycle-administration) | MFA, RBAC, and access lifecycle |
 
-A free, browser-based **CompTIA Security+ SY0-701 study app** I built with **300 original practice questions**, **50 interactive flashcards**, timed randomized mock exams (10, 25, 50, or 90 questions), difficulty and domain filters, answer explanations, and missed-question tracking. Includes an acronym trainer, common ports/protocols reference, and local-only study progress storage. Independent educational project; not affiliated with CompTIA.
+### Azure, Infrastructure & Automation
 
-[Launch the Security+ Command Center](https://johninfra.github.io/security-plus-command-center/) · [View the source code](https://github.com/johninfra/security-plus-command-center)
+| Repository | Focus |
+| --- | --- |
+| [azure-enterprise-administration-lab](https://github.com/johninfra/azure-enterprise-administration-lab) | Azure infrastructure, networking, policy, RBAC, and administration |
+| [azure-windows-diagnostic-automation-workflow](https://github.com/johninfra/azure-windows-diagnostic-automation-workflow) | GitHub Actions, OIDC, Azure VM automation, and PowerShell diagnostics |
+| [azure-cli-resource-group-lifecycle-lab](https://github.com/johninfra/azure-cli-resource-group-lifecycle-lab) | Azure CLI provisioning, verification, and cleanup |
+| [azure-static-web-apps-cicd-lab](https://github.com/johninfra/azure-static-web-apps-cicd-lab) | Azure Static Web Apps deployment and CI/CD |
+| [windows-it-diagnostic-toolkit](https://github.com/johninfra/windows-it-diagnostic-toolkit) | Windows troubleshooting and diagnostic tooling |
+
+### Cybersecurity, SOC & Training
+
+| Repository | Focus |
+| --- | --- |
+| [cyberops-triage-lab](https://github.com/johninfra/cyberops-triage-lab) | Interactive SOC and IAM incident-triage exercises |
+| [phishing-email-detector](https://github.com/johninfra/phishing-email-detector) | Phishing email detection project |
+| [security-plus-command-center](https://github.com/johninfra/security-plus-command-center) | Security+ practice application and learning resources |
+| [private-wealth-cybersecurity-command-center](https://github.com/johninfra/private-wealth-cybersecurity-command-center) | Security-oriented dashboard project |
+
+### IT Operations, Learning & Portfolio
+
+| Repository | Focus |
+| --- | --- |
+| [it-support-and-cybersecurity-labs](https://github.com/johninfra/it-support-and-cybersecurity-labs) | Documented IT, systems, networking, and security labs |
+| [itsm-platform](https://github.com/johninfra/itsm-platform) | IT service management platform |
+| [it-ai-operations-playbook](https://github.com/johninfra/it-ai-operations-playbook) | AI-assisted IT operations concepts and workflows |
+| [git-practice](https://github.com/johninfra/git-practice) | Git fundamentals and version-control practice |
+| [johninfra](https://github.com/johninfra/johninfra) | This GitHub profile README |
+
+## Approach
+
+I use hands-on labs to turn concepts into operational skills: **design the control, implement it, test the result, investigate failures, and document the evidence**. Projects are personal labs or demonstrations unless explicitly documented otherwise; simulations and read-only tools are identified as such in their repositories.
+
+**Explore my work:** [GitHub repositories](https://github.com/johninfra?tab=repositories) · [Professional portfolio](https://johncalvintyler.com)
