@@ -31,7 +31,7 @@ Selected projects illustrating identity governance, privileged-access controls, 
 
 | Project | Engineering focus |
 | --- | --- |
-| **[Azure Tenant Governance Dashboard](https://github.com/johninfra/azure-tenant-governance-dashboard)** | Read-only, multi-tenant Azure/Entra governance application using delegated Microsoft Graph and Azure Resource Manager access to review identities, privileged roles, RBAC, and resource topology. |
+| **[Entra IAM Governance Dashboard](https://github.com/johninfra/entra-iam-governance-dashboard)** | Read-only, multi-tenant identity governance SPA integrating Microsoft Graph and Azure Resource Manager. Features PIM/privileged-role visibility, MFA and Conditional Access posture, privilege-ranked Azure RBAC, identity-risk reviews, resource topology, and evidence-based NIST CSF 2.0 / ISO 27001 / CIS Controls alignment. |
 | **[Azure Identity Governance Console](https://github.com/johninfra/azure-identity-governance-console)** | IAM operations simulation with optional read-only live-tenant integration; explores identity lifecycle, access reviews, roles, Conditional Access, and audit activity. |
 | **[Entra Conditional Access + PIM/JIT Lab](https://github.com/johninfra/entra-conditional-access-pim-jit)** | Azure management MFA policy, emergency-access design, removal of standing privileges, time-bound Contributor activation, and audit validation. |
 | **[Entra PIM Group JIT Access Lifecycle](https://github.com/johninfra/entra-pim-group-jit-access-lifecycle-lab)** | Role-assignable groups, eligible membership, MFA-protected activation, expiration, and access-lifecycle evidence. |
@@ -48,7 +48,7 @@ A complete directory of my **22 public repositories**, grouped by engineering do
 
 | Repository | Focus |
 | --- | --- |
-| [azure-tenant-governance-dashboard](https://github.com/johninfra/azure-tenant-governance-dashboard) | Read-only Entra ID and Azure governance dashboard |
+| [entra-iam-governance-dashboard](https://github.com/johninfra/entra-iam-governance-dashboard) | Multi-tenant Entra IAM governance, PIM/RBAC risk review, MFA/Conditional Access, and framework evidence mapping |
 | [azure-identity-governance-console](https://github.com/johninfra/azure-identity-governance-console) | IAM lifecycle and access-governance console |
 | [entra-conditional-access-pim-jit](https://github.com/johninfra/entra-conditional-access-pim-jit) | Conditional Access and privileged-access governance |
 | [entra-pim-group-jit-access-lifecycle-lab](https://github.com/johninfra/entra-pim-group-jit-access-lifecycle-lab) | PIM for Groups and JIT membership activation |
