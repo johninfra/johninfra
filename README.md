@@ -90,4 +90,6 @@ A complete directory of my **22 public repositories**, grouped by engineering do
 
 I use hands-on labs to turn concepts into operational skills: **design the control, implement it, test the result, investigate failures, and document the evidence**. Projects are personal labs or demonstrations unless explicitly documented otherwise; simulations and read-only tools are identified as such in their repositories.
 
+All labs were built, configured, and tested by me in my own environment. I used Claude (AI) to help edit and standardize the documentation.
+
 **Explore my work:** [GitHub repositories](https://github.com/johninfra?tab=repositories) · [Professional portfolio](https://johncalvintyler.com)
